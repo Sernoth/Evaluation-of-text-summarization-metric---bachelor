@@ -1,0 +1,611 @@
+id,summary,dialogue,summary_words,dialogue_words,summary_openai_prompt1,summary_grok_prompt1,summary_gemini_prompt1,summary_openai_prompt2,summary_grok_prompt2,summary_gemini_prompt2,bertscore_openai_prompt1,bertscore_openai_prompt2,bertscore_grok_prompt1,bertscore_grok_prompt2,rouge-1_openai_prompt1,rouge-2_openai_prompt1,rouge-L_openai_prompt1,rouge-1_openai_prompt2,rouge-2_openai_prompt2,rouge-L_openai_prompt2,rouge-1_grok_prompt1,rouge-2_grok_prompt1,rouge-L_grok_prompt1,rouge-1_grok_prompt2,rouge-2_grok_prompt2,rouge-L_grok_prompt2,summary_gemini_flash_prompt1,summary_gemini_flash_prompt2,g_eval_openai_prompt1,g_eval_openai_prompt2,g_eval_grok_prompt1,g_eval_grok_prompt2,g_eval_gemini_prompt1,g_eval_gemini_prompt2,g_eval_gemini_flash_prompt1,g_eval_gemini_flash_prompt2,bertscore_gemini_prompt1,bertscore_gemini_prompt2,bertscore_gemini_flash_prompt1,bertscore_gemini_flash_prompt2,meteor_grok_prompt1,meteor_grok_prompt2,meteor_openai_prompt2,meteor_openai_prompt1,meteor_gemini_prompt1,meteor_gemini_prompt2,meteor_gemini_flash_prompt2,meteor_gemini_flash_prompt1
+13820547,"Nathalie, Olafur and Zoe are planning the New Year's Eve. Nathalie wants something classy. Olafur doesn't like opera. They want to go to the Breakfast at Tiffany's party in Soho.","Olafur: are we doing anything for New Year's Eve?
+Nathalie: I was thinking about something classy, like opera or sth like that
+Zoe: how much does it cost?
+Olafur: opera is not for me
+Nathalie: so what do you propose?
+Nathalie: it's 100$ 
+Olafur: I was thinking about partying somewhere
+Nathalie: partying sounds fun, as long as it will be classy
+Zoe: <file_link>
+Zoe: Breakfast at Tiffany's party sounds classy
+Olafur: <file_link> 
+Olafur: is it classy enough?
+Nathalie: :O
+Nathalie: this club is AMAZING
+Zoe: whoa
+Nathalie: we'll going to Soho then
+Olafur: we just need to hurry up and buy some tickets soon
+Zoe: sure",30,106,"Olafur asks about New Year’s plans. Nathalie suggests opera ($100), but he prefers partying. They choose a classy Soho club with a Breakfast at Tiffany’s theme and agree to buy tickets.","Friends discuss New Year's Eve plans: Nathalie suggests classy opera, but Olafur prefers partying. Zoe proposes Breakfast at Tiffany's theme. They choose an amazing Soho club and agree to buy tickets soon.","Olafur, Nathalie, and Zoe are making New Year's Eve plans. After rejecting opera, they find a classy club in Soho they all love and agree to buy tickets soon.","Olafur asks New Year’s plans. Nathalie suggests $100 opera; he prefers partying. Zoe proposes ""Breakfast at Tiffany’s"" party. After a Soho club link, they choose and plan to buy tickets.","The group discusses New Year's Eve plans. Nathalie suggests opera but Olafur prefers partying. They settle on a classy ""Breakfast at Tiffany's"" themed party at an amazing club in Soho and plan to buy tickets soon.","For New Year's Eve, Nathalie, Olafur, and Zoe decide against the opera. They agree to go to a classy club in Soho that Olafur found and plan to buy tickets soon.",0.8946202993392944,0.8887090682983398,0.9115701913833618,0.9132001996040344,0.00932,0,0.00932,0.0096,0,0.0096,0.00291,0,0.00291,0.00811,0,0.00811,"The friends discussed New Year's Eve plans.  Nathalie suggested opera, but Olafur preferred partying.  Zoe found a ""Breakfast at Tiffany's"" themed party at a Soho club, which everyone enthusiastically approved.  They decided to buy tickets quickly.
+","The friends are planning New Year's Eve.  Nathalie suggests opera, but Olafur prefers partying.  Zoe suggests a ""Breakfast at Tiffany's"" themed party at a classy Soho club, which everyone agrees to.  They need to buy tickets soon.
+",0.7971883062461775,0.675371252934165,0.7997990609110467,0.8027020535681941,0.7948169253506489,0.7978240606834143,0.8015633599860207,0.776687224425699,0.8974281549453735,0.910489559173584,0.9046136736869812,0.9113327264785767,0.5020615334236339,0.47678786242113286,0.38649350649350644,0.3730594990766389,0.3534978728406945,0.42150940927625985,0.5912596401028277,0.4731013583302477
+13682134,Javier was initially eager to have a tatoo done at Warsaw Ink but the price turned out to be too high. Javier decided to have a tatoo done in Colombia.,"Javier: Hey do you know any tattoo parlors over here with English speaking employees?
+Judie: Oh there's Warsaw ink
+Javier: the name sounds neat... have you had a tattoo done there?
+Judie: nope but my gf has
+Javier: got a pic?
+Judie: <file_photo>
+Javier: wow that looks amazing
+Javier: how much did she pay?
+Judie: it was a 1000
+Javier: fuck
+Javier: let me just get a tatttoo back in colombia then, thx",30,73,"Javier asks for an English-speaking tattoo parlor. Judie recommends Warsaw Ink and shares her girlfriend’s tattoo photo. Price was 1000, shocking Javier, who decides to get his tattoo in Colombia.","Javier asks for English-speaking tattoo parlors. Judie recommends Warsaw Ink, shares her girlfriend's impressive tattoo photo. Upon learning it cost 1000, Javier is shocked and decides to get one in Colombia instead.","Javier asked for a tattoo parlor recommendation. Judie suggested Warsaw Ink, but Javier found the price too expensive and decided to get his tattoo in Colombia instead.","Javier asks for a tattoo parlor with English-speaking staff. Judie recommends Warsaw Ink and shares her girlfriend’s tattoo photo, which cost 1000. Sticker-shocked, Javier decides to get tattooed back in Colombia.","Javier asks for English-speaking tattoo parlors in Warsaw. Judie recommends Warsaw Ink, where her girlfriend got an amazing tattoo for 1000. Javier finds it too expensive and decides to get one in Colombia instead.","Javier asks for a tattoo parlor recommendation. Judie suggests Warsaw Ink, but after learning her girlfriend's tattoo cost 1000, Javier decides to get one in Colombia instead.",0.8895813822746277,0.8816351890563965,0.884725034236908,0.8941814303398132,0.0008,0,0.0008,0.00605,0,0.00605,0.00076,0,0.00076,0.00612,0,0.00612,"Javier asked Judie for English-speaking tattoo parlors.  Judie recommended Warsaw Ink, showing a picture of a $1000 tattoo.  The price shocked Javier, leading him to postpone his tattoo plans.
+","Javier is looking for an English-speaking tattoo parlor. Judie recommends Warsaw Ink, showing Javier a picture of a 1000$ tattoo done there.  Javier decides to get a tattoo in Colombia instead.
+",0.7461716136494392,0.7670072881806311,0.7595645759057075,0.755325968015073,0.4216825124813207,0.5644063226808926,0.5114834709004404,0.7298020117116703,0.9137566089630128,0.8967236876487732,0.8841010332107544,0.8989388942718506,0.3326133517261408,0.35230696627581953,0.367644389588703,0.3533909877105143,0.4213959316037736,0.3793845663265306,0.42784636488340194,0.2472942199933475
+13611508,Martha likes Ophelia's lenses and wants to buy similar ones. Ophelia got them from Crazy Lenses.,"Martha: Hey, can I ask you a question?
+Ophelia: Do we know each other?
+Martha: We don't, but do you mind if I ask you about the lenses from your profile picture? they are awesome and I would like to buy the similar ones
+Ophelia: it's from Crazy Lenses. They have quite reasonable prices and very fast shipping.
+Martha: Thanks!!! I'll check them :)
+Ophelia: No problem :)",16,68,Martha asks Ophelia about her profile lenses; Ophelia recommends Crazy Lenses for affordability and quick shipping.,Martha asks Ophelia about lenses in her profile picture. Ophelia recommends Crazy Lenses for reasonable prices and fast shipping. Martha thanks her.,A stranger asked Ophelia where she got her contact lenses; Ophelia recommended the store Crazy Lenses.,"Martha asks Ophelia about her profile-picture lenses; they're from Crazy Lenses, reasonably priced with fast shipping.",Martha asks stranger Ophelia about lenses in her profile picture. Ophelia recommends Crazy Lenses for reasonable prices and fast shipping.,Martha asked Ophelia where she got her contact lenses. Ophelia told her they are from Crazy Lenses.,0.9005987644195557,0.9044539928436279,0.8932265639305115,0.8953551650047302,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.01371,0,0.01371,"Martha, a stranger, complimented Ophelia's profile picture lenses, inquiring about their origin. Ophelia recommended ""Crazy Lenses"" for their affordability and quick shipping; Martha expressed gratitude.
+","Martha, a stranger, complimented Ophelia's lenses in her profile picture and asked where she bought them. Ophelia recommended Crazy Lenses, praising their prices and shipping speed.
+",0.6393600835047468,0.6337587648372882,0.7300775091695355,0.6477574452675907,0.4366548716756631,0.5001643018404436,0.6727650632898898,0.7505397175613844,0.9090071320533752,0.9214087724685669,0.8875513076782227,0.9078882336616516,0.2979339884101789,0.3566174118851148,0.29971150763970505,0.2814980158730158,0.3028830579850987,0.4694736842105263,0.5035577449370552,0.4041463414634146
+13829744,Miranda can't make her meeting with Stephanie as she has to work. ,"Miranda: Hi S, could we cancel tomorrow's meeting?
+Stephanie: again? what happened?
+Miranda: I have to work :(
+Stephanie: you work 20 hours a day!
+Miranda: that's what young doctors do
+Stephanie: they kill themselves working
+Miranda: no they come close to death but survive and it makes them immortal
+Stephanie: as long as you have an explanation :D",12,59,"Miranda cancels meeting for work; they joke about doctors’ exhausting, immortal workload.",Miranda cancels meeting due to work; Stephanie teases her about doctors' grueling hours.,"Miranda, a young doctor, canceled their meeting because she has to work.",Miranda cancels tomorrow's meeting for work; Stephanie jokes about young doctors' workload.,"Miranda wants to cancel tomorrow's meeting due to work. As a young doctor, she works long hours, and they joke about overworking making doctors immortal.",Miranda is canceling tomorrow's meeting with Stephanie because she has to work.,0.8638008832931519,0.8735779523849487,0.8974342942237854,0.8889280557632446,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.00818,0,0.00818,"Miranda canceled their meeting due to work commitments, prompting Stephanie's playful concern about Miranda's workload.
+","Miranda cancelled tomorrow's meeting due to work commitments.  Stephanie jokingly commented on Miranda's long hours.
+",0.7786604577078363,0.7864597944630961,0.7991038954568199,0.7948152395753123,0.4150386771908711,0.40290118520075524,0.7913791574527338,0.6033743307859296,0.9047662615776062,0.9454901814460754,0.9038711786270142,0.8957957029342651,0.3377407300948549,0.34104567307692313,0.17605633802816903,0.1408450704225352,0.4769141699232884,0.630952380952381,0.2940613026819924,0.2940613026819924
+13864860,Kate and Jeff are downstairs in a room next to the reception. Some lady is making a marzipan cake. ,"Sam: Where are you?
+Kate: downstairs
+Sam: already?
+Kate: sure, come down
+Jeff: We're in the little room next to the reception
+Kate: have you noticed the woman making a cake?
+Sam: yes
+Kate: did you see the cake?
+Sam: I didn't pay attention, why?
+Kate: there was a huge penis on it
+Kate: made of marzipan or sth
+Sam: hahah, really?
+Kate: when I noticed it, I started laughing
+Kate: so she laughed too
+Sam: nice
+Kate: I asked her what's she doing
+Kate: Somebody ordered a cake with a huge penis with balls and chocolate hair
+Sam: hahah, I must see it!
+Kate: she is working in the small room under the stairs
+Sam: right, there is a kitchen",19,121,"Sam asks location; Kate downstairs. Kate saw marzipan penis cake—balls, chocolate hair; laughs and invites Sam to under-stairs kitchen.","Sam asks Kate's location downstairs, where she spots a woman making an ordered cake with a huge marzipan penis, balls, and chocolate hair.","Kate tells Sam a woman is making a custom cake featuring a huge marzipan penis, much to Sam's amusement.","Sam, Kate, and Jeff wait by reception. Kate sees a baker making huge marzipan penis cake with chocolate hair.","Kate noticed a woman downstairs making a cake decorated with a huge marzipan penis, balls, and chocolate hair. Sam is amused and wants to see it.",Kate is downstairs and has seen a woman making a cake with a huge marzipan penis with chocolate hair.,0.8664383888244629,0.901723325252533,0.8880230784416199,0.8954182863235474,0.0,0,0.0,0.0,0,0.0,0.01222,0,0.01222,0.01222,0,0.01222,"Sam and Kate discover a cake with a marzipan penis in a downstairs room.  Jeff is also present. Kate's laughter prompted the baker to explain the unusual customer request.  Sam wants to see it.
+","Kate and Jeff are downstairs.  A woman is making a cake with a large marzipan penis, per a customer's request. Sam wants to see it.
+",0.6581693266473818,0.656243226544201,0.6329685189469174,0.7987602506883789,0.4670079738924711,0.5835689222377815,0.6410370188348791,0.3999275343562951,0.8979284167289734,0.9083553552627563,0.8820309638977051,0.9196003675460815,0.2073732718894009,0.273972602739726,0.35094339622641507,0.1643192488262911,0.276753847054005,0.23923444976076552,0.5543518777373962,0.3289473684210526
+13728433,Pete will get a pear yogurt for Jen if they have it.,"Pete: What flavour yogurt did you want again? My brain is like a sieve today.
+Jen: Pear but only if they've got it. Otherwise don't worry about it.
+Pete: I'll have a look around. If they don't have pear can I get a different flavour?
+Jen: I don't like any other flavour. If they don't have pear just don't get anything at all then.
+Pete: OK.",12,66,"Pete asks yogurt flavor; Jen wants pear only, otherwise nothing. Pete agrees.","Pete asks Jen's yogurt preference: pear only, or nothing if unavailable.",Jen wants only pear yogurt and told Pete to get nothing else.,"Pete asks for yogurt flavor; Jen wants pear only; if unavailable, nothing.","Pete asks Jen's yogurt preference. She wants pear flavor only; otherwise, nothing.","Jen wants Pete to get her pear yogurt, or nothing at all.",0.8807289004325867,0.8908263444900513,0.8887929320335388,0.8870612978935242,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.00298,0,0.00298,"Pete asks Jen's yogurt preference.  Jen wants pear, otherwise nothing.
+","Jen wants pear yogurt; otherwise, Pete shouldn't buy any.
+",0.7595710861028702,0.7926525680315099,0.8039803944302915,0.8010178108696726,0.7431048338438437,0.784749018313651,0.800621781618992,0.786498790835058,0.8962000608444214,0.890694797039032,0.8851325511932373,0.878426194190979,0.2272727272727272,0.18656716417910452,0.26315789473684215,0.1879699248120301,0.327991452991453,0.3254877014418999,0.28615384615384615,0.1908396946564885
+13864950,A sweet little black cat got into the pitch during the Everton's football match.,"Bradley: haha look a cat invaded the pitch at Goodison <file_other>
+Jill: hahahaha
+Julia: what a sweet little black ball of fur
+Jill: here's the video :D <file_other>
+Julia: haha
+Bradley: and the commentary :D
+Bradley: that's the best entertainment Everton fans have had all season :D",14,47,"Friends share video of a cat invading Goodison pitch, joking it's Everton fans’ highlight.","Friends laugh about a cat invading Everton's Goodison pitch, sharing videos and commentary, joking it's the season's highlight.",Friends joked that a cat invading the pitch was the best entertainment of the season.,"Friends share a video of a black cat invading Goodison, joking it's Everton's highlight.","Bradley shares a cat invading Goodison pitch. They laugh at video and commentary, joking it's Everton fans' best entertainment.","A black cat invaded the pitch at Goodison, providing the best entertainment for Everton fans.",0.879649817943573,0.8863326907157898,0.8787461519241333,0.8729333877563477,0.01106,0,0.01106,0.0,0,0.0,0.00803,0,0.00803,0.00574,0,0.00574,"A cat invaded a soccer pitch, amusing spectators and providing the best Everton game entertainment all season.
+","A cat invaded the Goodison Park pitch, amusing Everton fans and commentators.
+",0.7553972619727968,0.7451749519795634,0.7936045973044723,0.789772424147591,0.7161848614364948,0.7962099317102405,0.7988685454121592,0.7964424453410535,0.8820952773094177,0.9116786122322083,0.9039729833602904,0.901960551738739,0.2083333333333333,0.17857142857142858,0.3155006858710563,0.1851851851851852,0.1875,0.3920807453416149,0.189873417721519,0.1840490797546012
+13819440,"Barry, Dave, Kelly, and Jake will meet around the campus at 12 to join Women's strike.","Barry: I'm gonna go march in Women's strike, anyone interested?
+Jake: I am, already made plans with some friends, wanna join?
+Dave: I am down too, Kelly is coming with me
+Barry: Let's just meet around the campus at noon",16,40,Barry will march in Women's strike; Jake and Dave with Kelly join; meet noon on campus.,"Barry invites friends to join Women's strike march. Jake and Dave agree, with plans to meet at campus noon.","Barry, Jake, and Dave are all attending the Women's strike and agree to meet beforehand.","Barry, Jake, and Dave plan to join Women’s Strike, with Kelly, meeting on campus at noon.",Barry invites Jake and Dave to join the Women's strike march. They agree to meet at campus at noon.,"Barry, Jake, and Dave are going to the Women's strike and will meet at campus at noon.",0.9267028570175172,0.9473650455474854,0.9190244674682616,0.9241563081741333,0.00392,0,0.00392,0.00392,0,0.00392,0.00335,0,0.00335,0.0,0,0.0,"Barry's organizing a Women's March and invites Jake and Dave, who are already planning to attend with friends.  They agree to meet on campus at noon.
+","Barry, Jake, and Dave plan to attend a Women's strike, meeting on campus at noon.
+",0.782983881393726,0.8015900616122247,0.8003839297660591,0.799925030581192,0.444588869232464,0.7354058129415942,0.8028056561821533,0.8000946916102173,0.9222339987754822,0.9505593776702881,0.8938785791397095,0.9478269219398499,0.5002165960723912,0.5025872908405068,0.5955188679245282,0.4335947453356359,0.435679335457442,0.6011904761904762,0.5761828814460394,0.3876262626262626
+13729679,"Harris' friend, Aoki, who lives in Michigan, died yesterday. Harris hasn't seen her for a few months.","Harris: How are U?
+Lena: Fine, U?
+Harris: Been better.
+Lena: ?
+Harris: My friend Aoki died yesterday.
+Lena: O No!
+Harris: Yeah.
+Lena: What happened?
+Harris: Not sure yet. Thinking the worst...
+Lena: O how awful!
+Harris: Yes.
+Lena: You just never know.
+Harris: True.
+Lena: Had you seen her lately?
+Harris: Not for a few months. She lives in Michigan.
+Lena: Oh, that's far.
+Harris: Not too far but far enough.
+Lena: Right.
+Harris: Got to go, mom's calling.
+Lena: K bi. Feel better!
+Harris: K will do",17,90,"Harris tells Lena Aoki died, cause unknown. She sympathizes. He hadn’t seen her; leaves when mom calls.","Harris tells Lena he's upset because his friend Aoki died yesterday, cause unknown; they chat briefly before he leaves.","Harris, upset about his friend Aoki’s death, tells Lena the cause is unknown; she offers sympathy.",Harris tells Lena Aoki died; cause unknown. He hadn’t seen her in months; she lived in Michigan.,"Harris informs Lena that his friend Aoki died yesterday. He's unsure of the cause and hadn't seen her recently, as she lived in Michigan.","Harris tells Lena that his friend Aoki died yesterday. The cause of death is unknown, and he fears the worst.",0.8706018328666687,0.9040656089782715,0.8738542199134827,0.9153211712837219,0.00316,0,0.00316,0.00701,0,0.00701,0.00668,0,0.00668,0.00437,0,0.00437,"Harris shares the devastating news of his friend Aoki's death.  Lena offers condolences, and Harris expresses his uncertainty regarding the cause,  before a brief conversation about distance and concluding with a hasty goodbye.
+","Harris's friend Aoki died.  He's unsure of the cause and hasn't seen her in months.  He's upset and must leave.
+",0.6139128560475522,0.6432665302982827,0.7596190748479827,0.7457876280655802,0.4019356342379054,0.7831465601837203,0.7916091823794305,0.663594856736154,0.8749452829360962,0.8911044597625732,0.8629229068756104,0.907192587852478,0.2006660404747673,0.5461224489795918,0.3717279297347764,0.2216796875,0.1470588235294117,0.28797975102019735,0.3896604938271605,0.1771653543307086
+13731254,Carla has a day off tomorrow. She will meet Sam in Meanwood in a cafe at 2 pm.,"Sam: Are you working tomorrow?
+Carla: No, it's my day off
+Sam: I'm free in the afternoon, do you fancy meeting up?
+Carla: Yeah, sure
+Sam: Ok, great! Shall we go to Meanwood?
+Carla: Ok, there's that cafe there that does the yummy cakes. Meet you at 2?
+Sam: Yes - looking forward to it!
+Carla: See you tom! xx",18,60,"Sam and Carla plan to meet tomorrow afternoon in Meanwood at 2, excited for cafe cakes there together.",Sam and Carla plan to meet tomorrow afternoon at 2 pm in Meanwood at a cafe with yummy cakes.,Sam and Carla arranged to meet for cake at a cafe in Meanwood tomorrow afternoon at 2 pm.,"Sam and Carla plan to meet tomorrow in Meanwood at 2 p.m., visiting a cafe famed for cakes.","Sam and Carla plan to meet tomorrow afternoon at 2pm in Meanwood, at a cafe known for its yummy cakes.","Sam and Carla are meeting at a cafe in Meanwood tomorrow at 2 PM, as it's Carla's day off.",0.9035311341285706,0.9136126041412354,0.9263370633125304,0.9185990691184998,0.00136,0,0.00136,0.00136,0,0.00136,0.01427,0,0.01427,0.00833,0,0.00833,"Sam invited Carla, who's free tomorrow, to meet at Meanwood's cafe at 2 pm.  They'll enjoy the yummy cakes.
+","Carla has a day off tomorrow and agrees to meet Sam at 2 pm in Meanwood at a cafe known for its cakes.
+",0.8001016092856682,0.8001397210752582,0.7998826496564113,0.8045707713307724,0.8023441893778097,0.8000951873392397,0.7701409919282008,0.762587847266128,0.9231967926025392,0.9336391091346741,0.9070621132850648,0.9519690275192261,0.4263888888888889,0.3146039603960396,0.3993801652892562,0.31775,0.5136795086543829,0.5932129173508485,0.7352941176470589,0.4312765786728717
+13817976,Jane wants to leave at 4.30 instead of 5 because Google Maps suggests the 300 km drive should take them at least 3 hours and she doesn't want to be late. She will wait for Steven at the main entrance.,"Jane: google maps says it is at least 3h <file_other>
+Steven: I used to make it in 2, trust me :D
+Jane: but it's almost 300km..
+Steven: the road is new , we will make it ^^
+Jane: I don't want  to stress out , let's meet at 4:30 instead of 5, ok?
+Steven: ok, if u reaaly want, we can meet at 4:30
+Jane: thx! 
+Jane: I will wait at the main entrance or where?
+Steven: main entrance is good for me;-) 
+Steven: cu",40,85,"Jane worries Google Maps shows a 3-hour, 300 km trip; Steven insists it can be done in 2 because the road’s new. To reduce stress, Jane moves meetup to 4:30 instead of 5. Steven agrees; they’ll meet at main entrance.","Jane expresses concern over a 3-hour, 300km drive per Google Maps. Steven assures it's possible in 2 hours due to a new road. To avoid stress, they reschedule the meeting to 4:30 at the main entrance instead of 5.","Jane is concerned about a three-hour drive, but Steven is confident it will only take two. To ease her worries, they agree to reschedule their meeting from 5:00 to 4:30 and decide to meet at the main entrance.","Jane says Google Maps estimates at least 3 hours for a 300 km trip. Steven claims 2 with the new road. To avoid stress, Jane sets meeting for 4:30 instead of 5. They agree to meet at the main entrance.","Jane and Steven discuss a 300km trip: Google Maps estimates 3 hours, but Steven believes it can be done in 2 due to a new road. To avoid stress, Jane suggests meeting at 4:30 instead of 5, and they agree on the main entrance.","Jane and Steven disagree on the travel time for their 300km trip. Jane believes it will take 3 hours, while Steven insists it will only take 2. To avoid stress, they agree to meet earlier at 4:30 instead of 5:00.",0.897883951663971,0.911383867263794,0.9016342163085938,0.9028863310813904,0.00804,0,0.00804,0.00715,0,0.00715,0.00842,0,0.00842,0.00439,0,0.00439,"Jane and Steven discuss travel time.  Jane, citing Google Maps' 3-hour estimate for a 300km trip, expresses concern.  Steven, claiming prior faster travel times due to a new road, eventually agrees to meet at 4:30 pm instead of 5 pm at the main entrance.
+","Google Maps estimates a 3-hour drive, but Steven thinks it'll be quicker due to a new road.  To avoid stress, Jane suggests meeting at 4:30 instead of 5; Steven agrees. They'll meet at the main entrance.
+",0.7113949299030617,0.7723824388034466,0.773181582788005,0.7845849968848462,0.6419296462797586,0.4122482573454346,0.7873773382598835,0.7971796677836849,0.891282856464386,0.894439697265625,0.8948707580566406,0.9024919867515564,0.3549382716049383,0.3948226544622426,0.5114093042695473,0.364316523102999,0.2807044807044807,0.2583541586569268,0.3853050626321573,0.3782835580739404
+13727832,"Gemma will invite Timmy and his Date, as well as Lona and Michelle to her wedding.","Timmy: Who do u wanna invite?
+Gemma: Well, there's u and ur date :)
+Timmy: Not sure about the date, but I'll be there :) who else?
+Gemma: I was thinking about Lona and Michelle.
+Timmy: Still thinking ur getting invites to their weddings?
+Gemma: It's not like that.
+Timmy: Sure it is ;) just don't wanna admit it ;)
+Gemma: Fine! I want to come to their wedding receptions!
+Timmy: There we go :) was it so hard?
+Gemma: Yes.
+Timmy: And u think u can change their minds?
+Gemma: Dunno.",16,92,"Timmy queries invitees; Gemma lists him, date, Lona, Michelle. He teases; she wants their receptions, unsure.","Timmy and Gemma discuss party invites, with Gemma admitting she wants Lona and Michelle for wedding reciprocation; Timmy teases her.",Gemma admits to Timmy her plan to invite Lona and Michelle is to get wedding invitations.,"Gemma invites Timmy and considers Lona and Michelle, hoping for reception invites; Timmy teases, Gemma uncertain.","Gemma plans to invite Timmy, his potential date, Lona, and Michelle to an event, hoping to secure invites to Lona and Michelle's weddings. Timmy teases her about her motives.","Gemma wants to invite Lona and Michelle to an event, hoping to get wedding invitations in return.",0.8696490526199341,0.8890244364738464,0.8838854432106018,0.9073098301887512,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.00118,0,0.00118,"Gemma wants to invite Timmy and his date, Lona, and Michelle to an event.  Timmy teases her about wedding invitations, but she admits she wants to attend their receptions, unsure if she can convince them.
+","Gemma wants to invite Timmy and his date, Lona, and Michelle to an event.  Timmy suspects she wants wedding invitations, which Gemma eventually admits to wanting.
+",0.4590316219412917,0.5765346238687539,0.5653943300960641,0.5018711074146731,0.3999834712185439,0.40743509157561997,0.5478054428945126,0.4190866886857389,0.9221420288085938,0.9139079451560974,0.9010194540023804,0.9033108949661255,0.4317623408532499,0.484436198721913,0.37817121150454486,0.1881720430107527,0.4156424581005586,0.3802605552145147,0.5202808351473158,0.5223936865386548
+13810494,Anna got an awful stomachache at night but she doesn't know its cause. Her mom Joanna will make her hot tea with some fresh mint leaves.,"Anna: Mum, I have a awful stomachache.
+Joanna: Oh, dear, when did you get it?
+Anna: At night, and it won’t stop:-(
+Joanna: Is it something you ate?
+Anna: Maybe. I'm not sure.
+Joanna: What did you have for breakfast?
+Anna: The usual, cereal with milk and a banana.
+Joanna: Maybe the milk was bad.
+Anna: It didn't smell bad.
+Joanna: Maybe the banana was bad.
+Anna: No, the banana was delicious.
+Joanna: Maybe you just need to go to the bathroom.
+Anna: No, that's not the problem.
+Joanna: Maybe it will go away in a little while.
+Anna: I wish it would :-(
+Anna: Hopefully. If not, maybe we should go and see a doctor.
+Joanna: Yeah, I think so...
+Anna: I’ll get you a hot tea with some fresh mint leaves. Hope it will help. 
+Joanna: Please do, I’m in my room...
+Anna: Will be in ten minutes:-)",26,150,"Anna tells her mom she’s had a stomachache since last night. They suspect milk or banana. If it continues, they'll see a doctor. Anna brings mint tea.","Anna complains to her mum Joanna about a persistent stomachache since night. They discuss possible causes like bad milk or banana. If it doesn't subside, they'll see a doctor. Joanna offers mint tea.","Anna tells her mother, Joanna, about a bad stomachache. After discussing possible causes and a doctor visit, Joanna prepares some mint tea to help soothe it.","Anna tells her mum she has a stomachache. They consider bad milk, banana, or bathroom. If it persists, they’ll see a doctor. Mint tea is prepared.","Anna has a severe stomachache since last night. Her mum Joanna questions her about possible causes like bad food, suggests it might pass, and offers hot tea with mint. They consider seeing a doctor if needed.","Anna has had an awful stomachache since last night. Her mother, Joanna, will make her a hot tea with mint, and they might see a doctor.",0.8830646276473999,0.8796212673187256,0.8929367661476135,0.8992540240287781,0.01036,0,0.01036,0.00688,0,0.00688,0.00986,0,0.00986,0.00228,0,0.00228,"Anna has a severe stomachache that started at night.  Her mother, Joanna, suspects food poisoning but Anna denies it.  They consider seeing a doctor if it doesn't improve; Anna offers her mother mint tea.
+","Anna has a persistent stomachache that started last night.  Her mother suspects spoiled food, but Anna denies it.  They'll likely see a doctor if it doesn't improve; Anna will make her mother mint tea.
+",0.5735027265908633,0.6159133504281431,0.5935351964864677,0.6360068229681245,0.6400377963388697,0.5197926719381882,0.5275106356538363,0.6127491959737031,0.8989987373352051,0.9176031947135925,0.8925880789756775,0.8878748416900635,0.2957548911037283,0.4180463576158941,0.16891891891891894,0.2027027027027027,0.1883561643835616,0.49918396832191786,0.3695364238410596,0.3350257542310522
+13680216,Yaz and Mary are meeting tonight around 6 and going for the slimming club together. They expect to be scolded for eating too much. ,"Yaz: Going to slimming club tonight?
+Mary: Well, I don't want to, but I really should. I've been so bad, though!
+Yaz: Me too, choccies, wine, cake, you name it!
+Mary: Well, we should bite the bullet. She'll tell us off, I expect. Feels like being back at school!
+Yaz: Well, she IS our old cookery teacher! See you at 6ish, pick you up!?
+Mary: Yep! See you then!",24,69,"Yaz asks Mary about slimming club. Both admit overeating, joking their leader—also their old cookery teacher—will scold them. Yaz offers 6ish pickup; Mary agrees.","Yaz asks Mary about slimming club tonight. Both admit indulging in chocolates, wine, and cake. They decide to go, expecting scolding from their old teacher. Yaz picks Mary up at 6.","Yaz and Mary reluctantly agree to attend their slimming club. Feeling guilty after overindulging, they expect a scolding from the leader, their old cookery teacher.","Two friends, after indulgences, plan to attend slimming club tonight, expecting scolding from a former cookery teacher; Yaz will pick Mary up at six.","Yaz and Mary have been indulging in chocolates, wine, and cake. They reluctantly decide to attend slimming club tonight, expecting a telling-off from their old cookery teacher. Yaz will pick Mary up at 6.",Yaz and Mary feel guilty for eating poorly but will go to their slimming club. Yaz will pick Mary up to face their old cookery teacher.,0.8806948661804199,0.9004219174385071,0.9033066630363464,0.9060624241828918,0.0,0,0.0,0.004,0,0.004,0.00049,0,0.00049,0.00049,0,0.00049,"Mary and Yaz are apprehensive about attending their slimming club, run by their old cookery teacher.  Both have indulged recently, but agree to attend, meeting at 6 pm.
+","Mary and Yaz are attending a slimming club tonight, despite recent indulgences in chocolate, wine, and cake.  They anticipate a scolding from their instructor, a former cookery teacher.
+",0.7460081578911769,0.798837667775447,0.7760500676855884,0.7808881591649866,0.7891986851294537,0.5930921899795307,0.7350151212253279,0.6661640195633793,0.9068087339401244,0.9021626114845276,0.8897751569747925,0.9068167805671692,0.3272875816993464,0.3064017577834052,0.24163498098859315,0.2416349809885931,0.3242501056189269,0.3048703551826382,0.3182006633499171,0.2954147552246082
+13717358,"Ethan and Leo are going to see Sólstafir on 21.11. Noah would like to go too, but he might have to stay late at work.","Ethan: who's going to see solstafir?
+Noah: solstafir! when?
+Noah: i had no idea they were playing
+Archie: I'm not :D.
+Leo: i'm going ofc!
+Ethan: 21.11
+Noah: that's a wednesday... ehh...
+Noah: i'll have to see, might have to stay late at work...
+Leo: nooo you have to come
+Ethan: yeah you have to!
+Archie: There are better concerts :P.
+Noah: i know, i would really like to see them, but yeah
+Leo: archie... :P
+Ethan: don't mind him :P
+Noah: i'll see and let you know, it would really suck to miss them
+Leo: yup!
+Ethan: yup! x2",25,100,Ethan announces Sólstafir on Nov 21. Leo’s in; Archie passes. Noah wants to go but may work Wednesday and will confirm. They encourage him.,"Ethan asks who's attending Solstafir on 21.11. Leo is going and urges Noah, who is hesitant due to work. Ethan agrees; Archie declines, citing better concerts.",Ethan and Leo are going to a Solstafir concert and encourage Noah to join. Noah is hesitant because the show is on a Wednesday night.,Friends discuss Solstafir’s Nov 21 Wednesday concert. Leo and Ethan are going. Archie isn’t interested. Noah wants to go but might work late and will confirm.,"Friends discuss going to Solstafir concert on November 21st, a Wednesday. Leo is attending, Archie isn't interested, Noah is considering it despite possible work conflict.",Ethan and Leo are going to a Sólstafir concert on 21.11. Noah wants to go but is unsure if he can make it because of work.,0.9015350341796876,0.9033434987068176,0.8938870429992676,0.8955585360527039,0.00255,0,0.00255,0.00247,0,0.00247,0.00238,0,0.00238,0.00328,0,0.00328,"Ethan, Leo, and Noah plan to see Solstafir on November 21st.  Archie is uninterested. Noah's work schedule is uncertain, but he hopes to attend.
+","Sólstafir are playing on November 21st.  Noah might miss the concert due to work, but Leo and Ethan want him to go. Archie isn't interested.
+",0.7968185884971922,0.7980878516622633,0.7995763744243138,0.7985177024506915,0.791525384948326,0.799619266222802,0.7988638510850232,0.797219554646912,0.9040294885635376,0.9562261700630188,0.9099361896514891,0.9074181914329529,0.2767569812104224,0.17667844522968199,0.3353789068074782,0.2787128609362912,0.3184336028910808,0.5877425044091712,0.3336242242907801,0.3747205596019327
+13829296,Charles has just landed and he will be at RER about 5.30 PM. Natacha will pick him up from there.,"Natacha: hi, i can come and pick you up at the RER.
+Charles: so  nice. I just landed. I think i'll arrive about 5:30pm. I'll give you a call
+Natacha: ok ,call  me when  you'll be at the station Vesinet. 
+Charles: thanks . see you",20,45,"Natacha will pick up Charles at the RER. He landed, expects 5:30 arrival, and will call from Le Vésinet station.",Charles has landed and will arrive at Vesinet RER station around 5:30 pm. Natacha will pick him up; he'll call upon reaching.,Charles will call Natacha for a pickup from the Vesinet RER station when he arrives there around 5:30 PM.,"Charles landed, expects to arrive by 5:30 pm. Natacha will pick him up at RER; he'll call from Vésinet.",Charles has just landed and will arrive at Vesinet RER station around 5:30pm. Natacha offers to pick him up; he'll call her then.,Charles has landed and will be at the Vesinet RER station at 5:30 PM. Natacha will pick him up when he calls.,0.8948097229003906,0.919364869594574,0.9311441779136658,0.9327112436294556,0.00091,0,0.00091,0.00091,0,0.00091,0.00083,0,0.00083,0.0039,0,0.0039,"Charles arrived at 5:30 PM and Natacha will pick him up from the RER station at Vesinet.
+","Charles landed and will arrive at the RER station around 5:30 pm. Natacha will pick him up.
+",0.7948481772439496,0.7978610112306577,0.7998609381368383,0.8001667811862587,0.7988526276636454,0.7995643351806241,0.5858462900354756,0.7829796963838038,0.9009679555892944,0.9415758848190308,0.9274175763130188,0.945544421672821,0.7026229609490855,0.6478298611111111,0.5912162162162162,0.3153153153153153,0.2293577981651376,0.7258642725770753,0.6388120839733743,0.500417952674897
+13682248,Steve is happy that he got a new dishwasher installed.,"Steve: hiya the dishwasher has turned up
+Mum: good did they install it for you
+Steve: yes they did a good job
+Steve: <file_photo>
+Mum: looks really nice
+Steve: yes it does its nice and quiet
+Mum: is it a 12 place setting one?
+Steve: I think so, not that I ever have 12 for dinner lol
+Mum: not but you dont have to put it on every day
+Steve: no every other
+Mum: yes I'm glad you are pleased with it xx
+Steve: I am thanks mum xxx",10,89,"Dishwasher delivered and installed; quiet, likely 12-place. Mom pleased; thanks.","Steve's new dishwasher installed well; looks nice, quiet, he's pleased.",Steve's new dishwasher has been installed and he is pleased.,"Steve’s new dishwasher was installed; it’s quiet, 12-place, and pleasing.","Steve's new dishwasher arrived and was installed. It looks nice, is quiet, and has a 12-place setting. He's pleased with it.",Steve's new dishwasher is installed. He's happy and thanks his mum.,0.8788663148880005,0.9014842510223389,0.9169371128082277,0.9144698977470398,0.0,0,0.0,0.01568,0,0.01568,0.01446,0,0.01446,0.0058,0,0.0058,"New dishwasher installed; Steve's pleased with its quiet operation and looks.
+","Steve's new dishwasher was delivered and installed.  He's pleased with it; it's quiet and a 12-place setting model.
+",0.6874175240971122,0.7115170910874211,0.7864873669367952,0.7968200382254345,0.6463661652457318,0.5991506233317532,0.6677913179320394,0.7947868131156673,0.9426531791687012,0.9325808882713318,0.9040511846542358,0.9102749228477478,0.4444444444444444,0.41892224409448825,0.31794871794871804,0.131578947368421,0.4320647177790035,0.4666940789473684,0.38991206238593007,0.3946902654867256
+13681989,Joana will bring Sandy some games like dixit and carcassonne.,"Joana: wana play some games?
+Sandy: what games?
+Joana: maybe dixit?
+Joana: or carcassonne?
+Sandy: why not?
+Joana: ok, I'll bring them 2 u
+Sandy: great :)",10,27,Joana suggests Dixit or Carcassonne; Sandy agrees; Joana will bring.,"Joana suggests playing Dixit or Carcassonne; Sandy agrees, Joana brings them.",Joana and Sandy agreed to play some board games together.,Joana proposes Dixit or Carcassonne; Sandy agrees; Joana brings them.,"Joana invites Sandy to play Dixit or Carcassonne; Sandy agrees, Joana brings them.",Joana will bring Dixit or Carcassonne to play with Sandy.,0.8732280731201172,0.8702641725540161,0.8772098422050476,0.8817619681358337,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.01318,0,0.01318,"Joana suggests Dixit or Carcassonne; Sandy agrees. Joana will bring the games.
+","Joana suggested playing Dixit or Carcassonne; Sandy agreed, and Joana will bring the games.
+",0.7959387495777543,0.8002031370549375,0.7994488803104407,0.800049269940644,0.7931996874105736,0.7996736746043727,0.7999038999880772,0.800064315852735,0.8722409605979919,0.8924601078033447,0.8810787796974182,0.8907449841499329,0.2654867256637168,0.2608695652173913,0.26785714285714285,0.5111151603498542,0.3181818181818182,0.520408163265306,0.5933375904640272,0.5537280701754386
+13682447,Ann is still at school. She will be home at 7 so she can meet Meg then.,"Meg: still at school?
+Ann: i have extra math classes
+Meg: so when can i meet you?
+Ann: i will be home at 7",17,24,"Meg asks if Ann's at school and when to meet; Ann has extra math, home at 7.",Meg asks if Ann is still at school. Ann has extra math classes and will be home at 7.,"Ann has extra math classes, so she told Meg they can meet at her home at 7.",Ann has extra math classes and will be home by 7; Meg asks when they can meet.,"Ann is still at school for extra math classes. She will be home at 7, so Meg can meet her then.",Ann is at school because she has extra math classes. She tells Meg she will be home at 7.,0.8874272108078003,0.9056078195571899,0.919150412082672,0.9638845324516296,0.01052,0,0.01052,0.00135,0,0.00135,0.00142,0,0.00142,0.00843,0,0.00843,"Ann has extra math classes, delaying her meeting with Meg until 7 PM.
+","Ann has extra math classes and will be home at 7 pm.
+",0.5990157566139316,0.7829896250507803,0.7460564388524034,0.8003842545076207,0.6373871592551374,0.48178715732646227,0.7346958636221405,0.6022890484454025,0.9013358950614928,0.9306552410125732,0.8995991349220276,0.9155178070068359,0.6578217455621302,0.8825577714466604,0.40350877192982454,0.3993055555555556,0.5043497172683776,0.68359375,0.3654614019520852,0.1344086021505376
+13612019,"Gloria and Mell plan to have a barbeque at Mell's place on Saturday. They are happy, because Tad's sister moved to Scotland. Mell needs Gloria's advice on garden design.","Mell: Hi there! How are you doing?
+Gloria: Hi Mell! We are fine, just the daily grind ;) And yourselves?
+Mell: Not much happening either. An odd phone call with the kids. Or Tad's sister:(( Not much otherwise.
+Gloria: Yeah... Life has become so quite since the kids are out of the house. We had more to get used to it. But it must hard for you. Especially you I mean.
+Mell: I don't know. Sometimes I even forget that I should be missing them. In a way I do like this peace and quiet now.
+Gloria: Small wonder. You had a hell of a time with them just before they went to college. I'd say you need to recover now.
+Mell: I guess you're right. But maybe I should feel guilty or something?
+Gloria: Don't be silly! You are a fantastic mom.
+Mell: Thanks Gloria.
+Gloria: Anyway I'm happy to hear from you again. We should really have a nice do again.
+Mell: YES! Splendid!
+Gloria: The weather is just brilliant, perfect for a BBQ. What do you think?
+Mell: I'm all for it. At my place? I'd love it.
+Gloria: Can't be better. I love your garden.
+Mell: We're thinking about extending the terrace. I must show you my drawings, just a few ideas. It would be great to hear your opinion.
+Gloria: I'd love to. But you know how little I know about garden design, or however you call it.
+Mell: We'll have a look at them. Now the BBQ. At the weekend I suppose?
+Gloria: Let me check the calendar. Here's our family planner. A horrible name, isn't it? So this weekend suits us fine. At the next one, on Saturday, Mark has penciled something in but I can't read it. So what about this Saturday?
+Mell: Perfect. At least we know the weather holds. Shall I do the food and you the drinks?
+Gloria: And I'll get us some dessert as well. 
+Mell: Very good indeed. It's always so easy going with you.
+Gloria: Ta! You were thinking about Tad's sister?
+Mell: I'm afraid so. I'm so happy she moved up to Scotland and I don't have to put up with her trying to run my household. Tad feels relieved too.
+Gloria: Good riddance! I could really never warm up to her.
+Mell: Nobody can! Anyway she's gone and we're going to have a fantastic barbecue. Without her.
+Gloria: Yes, we are. Oh I'm so happy you've phoned!
+Mell: Looking forward to our BBQ on Saturday!
+Gloria: So long!",29,424,"Mell and Gloria discuss empty-nest life. Mell enjoys quiet; Gloria reassures her. They plan BBQ at Mell’s: Mell food, Gloria drinks and dessert. Relieved Tad’s bossy sister moved away.","Mell and Gloria discuss life after kids leave home, with Mell enjoying the newfound peace. They plan a Saturday BBQ at Mell's, dividing tasks, and express relief over Tad's sister moving to Scotland.","Friends Mell and Gloria catch up on their quiet, empty-nest lives and Mell's difficult sister-in-law. Taking advantage of the nice weather, they plan a barbecue at Mell's for Saturday.","Mell and Gloria catch up. Mell enjoys quiet since kids left; Gloria reassures her. They plan a BBQ at Mell’s—Mell food, Gloria drinks. Relieved Tad’s sister moved to Scotland.","Mell and Gloria catch up on life after their kids left home. Mell enjoys the peace and doesn't miss the chaos. They plan a BBQ at Mell's this Saturday, sharing tasks, and express relief that Tad's sister moved away.","Mell and Gloria catch up on their quiet lives as empty-nesters. They plan a BBQ at Mell's place for Saturday; Mell provides food, and Gloria will bring drinks and dessert.",0.887406587600708,0.8999192118644714,0.908272922039032,0.907110869884491,0.00361,0,0.00361,0.01011,0,0.01011,0.00925,0,0.00925,0.00756,0,0.00756,"Mell and Gloria catch up, discussing their quieter lives since their children left home.  They decide to have a BBQ at Mell's house this Saturday,  excited to celebrate their newfound peace and freedom from Mell's difficult sister-in-law.
+","Mell and Gloria are catching up.  Mell's children have left home, resulting in a quieter life. They plan a barbecue at Mell's house this Saturday,  with Mell providing food and Gloria drinks and dessert.  Mell is also relieved that Tad's sister has moved to Scotland.
+",0.6253770205233382,0.6233294449840966,0.7949279599346972,0.7405712238487028,0.7199668719979277,0.6455176093856372,0.6283934923495693,0.7963789414910274,0.890509307384491,0.8987718820571899,0.8964009881019592,0.9025498032569885,0.3952679973088136,0.3215553966420352,0.39464145356867586,0.3216753949175823,0.2367688022284122,0.2761419167044173,0.4794777871700948,0.3485467756584922
+13680457,Ana wants to visit grandma tomorrow. Catherine will go with her. She will call Anna when she wakes up.,"Ana: You sleeping?
+Catherine: Not yet.
+Ana: Wanna go visit grandma tomorrow? I miss her.
+Catherine: Yeah that would be nice :) I'll call you when I wake up
+Ana: Oki :) sleep well, good night.
+Catherine:  Good night, u too.",19,41,"Ana asks if Catherine’s awake, suggests visiting grandma tomorrow; Catherine agrees to call in the morning. They exchange goodnights.","Ana asks if Catherine is sleeping and suggests visiting grandma tomorrow since she misses her. Catherine agrees, will call in the morning, and they exchange good nights.","Ana and Catherine made plans to visit their grandma tomorrow, agreeing that Catherine will call in the morning to coordinate.",Ana asks if Catherine is awake and suggests visiting grandma tomorrow. Catherine agrees and will call in the morning.,"Ana suggests visiting grandma tomorrow, and Catherine agrees. Catherine will call Ana in the morning. They wish each other good night.",Ana and Catherine made plans to visit their grandma tomorrow. Catherine will call Ana when she wakes up.,0.8978208303451538,0.9159422516822815,0.9047939777374268,0.920647144317627,0.00471,0,0.00471,0.0,0,0.0,0.0,0,0.0,0.00427,0,0.00427,"Ana wants to visit Grandma tomorrow; Catherine agrees and will call Ana in the morning.
+","Ana and Catherine plan to visit their grandmother tomorrow.
+",0.7925428865777107,0.7978098070797655,0.8001060285297422,0.7954210472852726,0.793499469981998,0.799840565287241,0.7808596672198144,0.6186409351363823,0.9070227146148682,0.9337509870529175,0.9407884478569032,0.9096742868423462,0.4184560972969072,0.42971500574435756,0.35007610350076107,0.3086419753086419,0.3128507295173962,0.6020642201834863,0.20499465811965809,0.436046511627907
+13821554,Sam appreciates the hotel owned by Jessica and Michael. Sam is going there on the 15th August at around 2pm.,"Sam: You own a really nice hotel, guys 😊
+Jessica: Thanks Sam 😊
+Michael: Thanks, mate 
+Sam: How is our hotel room set for next month? Hope that the manager will arrange the very best for us 😉
+Michael: you’re damn right, Sam
+Michael: are you coming on the 15th of August?
+Sam: Yep! We’ll be at the hotel around 2 p.m.
+Jessica: I’m soooo happy to see you again!
+Sam: Me, too 😊",20,74,"Sam praises their hotel, confirms room and arrival August 15 at 2 p.m. Jessica and Michael thank him; everyone’s excited.","Sam compliments Jessica and Michael's hotel, confirms his room reservation for next month, and arrival on August 15th at 2 p.m. They're excited to reunite.","Sam confirmed his August 15th hotel booking with his friends, Jessica and Michael, who are excited for his upcoming visit.","Sam compliments the hotel, requests the best room, and will arrive August 15 around 2 p.m. They’re excited to reunite.","Sam compliments Jessica and Michael's hotel. He confirms their room for August 15th, arriving at 2 p.m. Everyone is excited to reunite.","Sam confirmed with his friends, Jessica and Michael, that he will be arriving at their hotel on August 15th around 2 p.m.",0.8931056261062622,0.8987832069396973,0.9066725969314576,0.9132714867591858,0.01217,0,0.01217,0.01944,0,0.01944,0.00964,0,0.00964,0.00779,0,0.00779,"Sam complimented the hotel, confirmed their August 15th booking for a premium room, and expressed excitement about seeing Jessica and Michael.
+","Sam, Jessica, and Michael are looking forward to Sam and Jessica's hotel stay on August 15th.  They expect the best room arrangement.
+",0.7761356842158497,0.741011867868252,0.7299507989657146,0.7120016542098979,0.6210979357653363,0.6681906050007533,0.6272227454520176,0.6344891596742082,0.8916429281234741,0.9177919030189514,0.8946327567100525,0.9058451056480408,0.2401746724890829,0.35658943329397874,0.2385790358744394,0.2830717488789237,0.2856334841628958,0.3581884890486602,0.26666666666666666,0.3351351351351351
+13716169,"Casey got a new nail polish and did her nails herself. It took her nearly 4 hours, so she won't do her friends' nails, as it takes too long.","Casey: <file_photo>
+Amelia: these are so nice!!! did you do them yourself?
+Kristen: wooow amazing
+Amelia: i want my nails done like that too!
+Casey: yeah i did it myself :D got a new nail polish but damn it took me nearly 4 hours lol
+Amelia: can you do it for us too?
+Kristen: pretty please!
+Casey: sorry you guys... it was a nightmare :( seriously 4 hours for nails is too much",29,73,"Casey shares a nails photo. Amelia and Kristen gush, ask if they’re self-done and to do theirs too. Casey confirms, says new polish took nearly four hours, and declines.","Casey shared a photo of her nails, which she painted herself with new polish, taking nearly 4 hours. Amelia and Kristen loved them and asked her to do theirs, but Casey declined, calling it a nightmare.","Amelia and Kristen complimented Casey’s self-done nails and asked her to do theirs. Casey declined, explaining it was a nightmare that took her nearly four hours to complete.","Casey shares her nails. Amelia and Kristen praise them and ask for the same. Casey did them herself with new polish, but it took four hours, so she declines.","Casey shared a photo of her nails, which she did herself with new polish, but it took 4 hours. Amelia and Kristen admire them and ask her to do theirs, but she refuses as it was a nightmare.","Casey did her nails herself, which took four hours. Amelia and Kristen were very impressed and asked Casey to do theirs too, but Casey declined because it took too long.",0.8798695802688599,0.8996729254722595,0.9010616540908812,0.9099031090736389,0.00404,0,0.00404,0.0081,0,0.0081,0.00388,0,0.00388,0.00161,0,0.00161,"Casey showed off her self-done nails, which impressed Amelia and Kristen.  While Casey was proud of the result, the four-hour process proved too arduous to repeat for others.
+","Casey did her own nails, a process that took four hours.  Amelia and Kristen admired her work and asked for Casey to do theirs, but Casey declined due to the time commitment.
+",0.7667811193687848,0.6588565177256741,0.778538789661087,0.78455727524581,0.7540321279850403,0.720369824592969,0.7350165349824602,0.7717434749715273,0.8904647827148438,0.9118632674217224,0.8864147067070007,0.8972302079200745,0.3560224089635854,0.43124478567128877,0.34943526815833126,0.3170710128971374,0.3057650862068966,0.3665234001910219,0.26803997507122507,0.1296829971181556
+13729320-1,"Paul forgot about his physiotherapy and he will schedule a new appointment. Emma will be home after midnight, so Paul will prepare some food for her.","Paul: I just came back home
+Paul: What a busy day
+Paul: I forgot about my physiotherapy 
+Emma: Oh no
+Paul: It's ok, I'll schedule a new appointment
+Emma: I'll be home after midnight
+Paul: Do you want me to prepare some food for you?
+Emma: That would be lovely",26,50,"Paul arrives home after a hectic day, realizes he missed physiotherapy and will reschedule. Emma returns after midnight. He offers to prepare food; she appreciates it.","Paul returns home after a busy day, forgetting his physiotherapy but plans to reschedule. Emma will arrive after midnight, so he offers to prepare food, which she finds lovely.","After a busy day, Paul forgot his physiotherapy appointment but will reschedule. He offered to prepare food for Emma, who will be home late after midnight.","Paul came home after a busy day, forgot physiotherapy, and will reschedule. Emma will be home after midnight. Paul offers to make food; she appreciates it.","Paul came home after a busy day and forgot his physiotherapy appointment, but he'll reschedule it. Emma will return after midnight, so Paul offers to prepare food for her, which she appreciates.","Paul had a busy day and forgot his physiotherapy appointment, which he will reschedule. He will prepare some food for Emma, who will be home late.",0.9063780307769777,0.9213189482688904,0.9109521508216858,0.9343119859695435,0.005,0,0.005,0.007,0,0.007,0.00449,0,0.00449,0.0,0,0.0,"Paul had a busy day, forgetting his physiotherapy appointment, but will reschedule.  Emma will be late, and Paul will prepare dinner for her.
+","Paul had a busy day and missed his physiotherapy appointment, but will reschedule.  Emma will be home late, and Paul will prepare food for her.
+",0.7915836581698221,0.6486546288954664,0.7975370538981666,0.7733747410001376,0.798067296130813,0.6873247892193599,0.596173652304767,0.6025522101762236,0.9318478107452391,0.9358228445053101,0.9337046146392822,0.942485511302948,0.3969147245762712,0.594267392686365,0.41817730906857825,0.3464992389649924,0.511340206185567,0.5620621673640821,0.646551724137931,0.569439104617882
+13716003,Ellie's class is in 342 on the second floor.,"Ellie: hey, are you at the university?
+Aaliyah: yep
+Camille: I'm sick :/
+Ellie: shiet....that's bad
+Ellie: Aali, where are we having our classes now?
+Aaliyah: 342 on the second floor",9,31,Ellie asks location; Aaliyah: room 342; Camille feels sick.,Ellie asks about class location; Camille is sick; it's room 342.,Camille is sick. The class is in room 342.,"Aaliyah’s at university; classes in 342, second floor; Camille’s sick.",Ellie checks if Aaliyah is at university; she is. Camille is sick. Classes are now in room 342 on the second floor.,Camille is sick. Ellie asks Aaliyah for the classroom.,0.8517155051231384,0.8867515325546265,0.8689916133880615,0.8907709717750549,0.0,0,0.0,0.0,0,0.0,0.01779,0,0.01779,0.00653,0,0.00653,"Ellie and Aaliyah are at the university; Camille is sick; class is in 342.
+","Camille is sick.  Classes are in room 342.
+",0.4074430217591813,0.8008967038799133,0.6439406050290563,0.7848479195770636,0.4004861282412452,0.4014975293324306,0.5906688482085565,0.41122139494809434,0.8966541886329651,0.8522841334342957,0.8611385822296143,0.8936654925346375,0.2631578947368421,0.7499999999999999,0.43684710351377015,0.1339285714285714,0.4646464646464646,0.18181818181818182,0.2293577981651376,0.5471498944405347
+13731258,Joy sent Peter the link to her beauty shop.,"Peter: Can you send me the link of your beauty shop?
+Joy: Definitely
+Joy: It is https:// *********
+Joy: Hope you will like it and feel free to ask any questions.
+Peter: Okay. Let me look at it.",9,38,Peter requests Joy's beauty shop link; Joy shares it.,Peter requests Joy's beauty shop link; she provides it.,"The provided dialogue captures a brief and friendly interaction centered around a business inquiry. The conversation begins with Peter asking Joy to provide the link to her beauty shop, indicating his interest in her products or services. Joy responds immediately and positively, first confirming she will send it and then sharing the specific URL. Beyond simply providing the information, Joy extends a welcoming gesture, expressing her hope that Peter will like the shop and encouraging him to ask any questions he may have. This demonstrates a customer-friendly approach. The exchange concludes with Peter acknowledging Joy's message and stating his intention to review the website she has shared with him.",Peter asks link; Joy shares URL and invites questions.,Peter asks Joy for her beauty shop's link. Joy shares it and invites questions. Peter will review it.,Joy sent Peter the link to her beauty shop. Peter is now going to look at the website.,0.9003892540931702,0.8734583854675293,0.9144455194473268,0.907027006149292,0.00862,0,0.00862,0.0047,0,0.0047,0.00862,0,0.00862,0.00142,0,0.00142,"Peter requested Joy's beauty shop link; Joy provided it.
+","Peter asked Joy for her beauty shop's link. Joy provided it and offered assistance.
+",0.8357879214711657,0.7893586357600666,0.8063522456251733,0.8000129393372635,0.7702333368497107,0.8003689655529392,0.7980756012919324,0.8073793427633346,0.8615336418151855,0.9571986198425293,0.913184404373169,0.9239766597747803,0.4180283224400871,0.5111151603498542,0.19801980198019806,0.4180283224400871,0.2142857142857143,0.7531818181818182,0.5349990463475109,0.4180283224400871
+13863084,Jake has got his first TOTW this year. Tom doesn't have a great team. ,"Jake: dude, I just pulled a TOTW
+Jake: my first this year!
+Tom: grats!
+Tom: gonna sell it?
+Jake: yeah
+Jake: I'll try him in one or two matches
+Jake: he's not a good fit for my squads
+Tom: you'll have plenty of coins to buy someone that fits
+Jake: that's the plan
+Jake: I got lucky with this one
+Tom: my pull luck sucks this year
+Tom: not a single great player 
+Jake: you're good at the game
+Jake: you don't need help :P
+Tom: I like shiny things :P",14,91,"Jake pulled his first TOTW, plans to sell; Tom congratulates, laments luck, likes shinies.","Jake pulled his first TOTW player this year, plans to try and sell it. Tom congratulates, envies his luck.",Jake got a valuable player he will sell; Tom complains about his own bad luck.,"Jake packed his first TOTW card, will sell for coins; Tom laments poor luck.","Jake pulled his first TOTW card this year and plans to sell it after trying it, to buy a better fit. Tom has poor pull luck but is skilled at the game.",Jake got a rare player he'll sell for coins. Tom complains his luck is bad.,0.8962327241897583,0.8936987519264221,0.897433340549469,0.9028865694999695,0.0,0,0.0,0.01355,0,0.01355,0.0,0,0.0,0.00436,0,0.00436,"Jake got a lucky Team of the Week (TOTW) card, his first, and plans to sell it to buy a better-fitting player, unlike Tom, who has had poor luck.
+","Jake got a Team of the Week (TOTW) player, his first this year.  He plans to sell it to buy a better fit for his team. Tom's luck is poor this year.
+",0.6339759857207825,0.5395668294486599,0.7239296978599783,0.7623080159260999,0.5378834233213596,0.4084547671926481,0.6672347568867081,0.7725101135728625,0.8825985789299011,0.8888829350471497,0.8832523822784424,0.9049293994903564,0.4356060606060606,0.5097151397925093,0.30065359477124187,0.2971576227390181,0.2058823529411764,0.28046306241794966,0.44415509259259267,0.3633739997376362
+13728966,Mary ran out of money. Carter is going to lend her some in an hour.,"Mary: hey, im kinda broke, lend me a few box
+Carter: okay, give me an hour, im at the train station
+Mary: cool, thanks",15,24,"Mary asks to borrow money because she's broke; Carter agrees, needs an hour at station.","Mary, broke, asks Carter for money. He agrees to lend it in an hour from the train station.","Mary asks to borrow money from Carter, who agrees to help her in an hour.","Mary requests money. Carter agrees, asking for an hour since he's at the train station.","Mary is broke and asks Carter to lend her some money. He agrees, but needs an hour from the train station.","Mary needs to borrow money, and Carter agrees to lend it to her in an hour.",0.8866085410118103,0.8843240737915039,0.9037790894508362,0.9072424173355103,0.00357,0,0.00357,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,"Mary needs money; Carter will lend it to her in an hour.
+","Mary needs money and Carter will lend her some in an hour.
+",0.7954254203928243,0.799340314089821,0.6254307976663558,0.7934051319512768,0.7964350823660882,0.7864924918542497,0.7786445418751203,0.6866112935218681,0.9246059656143188,0.9341130256652832,0.9441552758216858,0.9560602903366089,0.5475796930342386,0.6771303446661986,0.3690080683436165,0.3093204941860464,0.4509803921568627,0.48450292397660816,0.5831325301204818,0.4961077844311377
+13813429,Peyton is expecting Cameron to bring the video game. Cameron will probably be out for another week.,"Peyton: I have been asking you to bring that video game for me
+Cameron: Honey, I am not having enough time to come home
+Peyton: When would you come home?
+Cameron: I will have to stay out of town for another week i guess
+Peyton: Cant you just deliver that game through the courier? :P
+Cameron: Dont be mean :/
+Peyton: Get the job done and come to home then. ASAP :P",17,72,Peyton wants a game; Cameron's away a week. Peyton suggests courier; Cameron objects. Peyton insists return ASAP.,"Peyton urges Cameron to bring a video game home, but Cameron is out of town another week. Peyton suggests couriering it and to return ASAP.","Peyton wants a video game, but Cameron is busy and stuck out of town for another week.",Peyton wants Cameron to bring a game. He's away; refuses courier. Peyton demands he return home soon.,"Peyton wants Cameron to bring a video game home, but Cameron is out of town for another week. Peyton suggests sending it via courier and urges him to return ASAP.","Peyton wants a video game, but Cameron is out of town for another week and can't come home.",0.8803250193595886,0.8916042447090149,0.8946917653083801,0.8998473286628723,0.00645,0,0.00645,0.00107,0,0.00107,0.00391,0,0.00391,0.00452,0,0.00452,"Peyton repeatedly requests Cameron bring a video game home, but Cameron's out of town for a week. Peyton suggests delivery; Cameron is annoyed.
+","Peyton wants Cameron to bring a video game home.  Cameron is out of town for a week and suggests a courier. Peyton wants him home ASAP.
+",0.5973787903123672,0.6121762733437268,0.7123895231727648,0.7829436020807073,0.6075469530315557,0.5419001532675343,0.7174244397562618,0.7241029808862034,0.904003918170929,0.8979600071907043,0.8930639624595642,0.8970818519592285,0.4553834260057684,0.5198329331732693,0.275663860103627,0.2061855670103093,0.4694736842105263,0.43151041666666673,0.5020710059171597,0.3707774986041318
+13731040,Tina will catch the evening flight back home. Ala is on her way to the meeting. She will let Tina know how it went.,"Tina: I'll tell you something, this Emirate staff looks amazing, as movie stars
+Ala: Oh yes, I know, that's for purpose 
+Ala: It's how it's suppose to be
+Ala: They pay a lot of attention to the image
+Tina: Looks nice, pleasure to observe
+Tina: And I sucked at the airport, they've kept us one hour in the plane and finally I'll catch the evening flight back home
+Tina: Could You imagine?
+Tina: And you know, this way we had such a talkative pilot :-)
+Ala: Oh, poor you
+Ala: Pfff
+Ala: And I'm on my way to a meeting
+Tina: THE meeting?
+Ala: Yes, keep your finger crossed
+Tina: Sure, let me know how did it go
+Ala: Ok darling, in touch",24,123,Tina praises Emirates staff but had a one-hour delay; taking evening flight with a chatty pilot. Ala goes to a meeting; Tina wishes luck.,Tina admires Emirates staff's movie-star looks. She complains about an hour-long airport delay on the plane. Ala heads to a key meeting; Tina wishes luck and requests an update.,"After admiring the airline staff's appearance, Tina complains about a frustrating flight delay. Ala expresses sympathy before heading to an important meeting, promising to connect later.","Tina praises Emirates staff’s image, but her plane waited an hour, forcing an evening flight. Ala heads to an important meeting; Tina wishes luck.","Tina admires the Emirates staff's movie-star looks, which Ala says is intentional. Tina complains about a one-hour airport delay in the plane, taking an evening flight home. Ala is heading to an important meeting and will update Tina.","Tina tells Ala that her flight was delayed for an hour. Ala expresses sympathy and mentions she's on her way to an important meeting, asking for luck.",0.8804487586021423,0.883753776550293,0.8734137415885925,0.8815574049949646,0.00471,0,0.00471,0.00492,0,0.00492,0.00478,0,0.00478,0.00227,0,0.00227,"Tina admired the Emirate staff's appearance, contrasting it with her delayed flight experience.  Ala sympathized, then rushed off to a crucial meeting, promising to update Tina afterward.
+","Tina admired the Emirate staff's appearance.  Her flight was delayed, but she enjoyed a chatty pilot. Ala is off to an important meeting.
+",0.6162789974771685,0.5578286438736038,0.6180419162654119,0.7670194636065802,0.7626856966906127,0.4006411400554148,0.7934414546408742,0.7164550454385319,0.8564608693122864,0.8846354484558105,0.8716213703155518,0.8786731362342834,0.1985559566787003,0.35253581107239645,0.23193430656934302,0.2345018450184501,0.145985401459854,0.32424443506062606,0.27226834768347685,0.1992753623188405
+13716588,"Ann, Sue and Julie did a great job and they will have a little celebration tonight.","Ann: Congratulations!!
+Ann: You did great, both of you!
+Sue: Thanks, Ann
+Julie: I'm glad it's over!
+Julie: That's co cute of you, girl!
+Ann: Let's have a little celebration tonight! 
+Sue: I'm in
+Julie: me too!!! aww",16,38,Ann congratulates Sue and Julie. Julie's relieved. Ann suggests celebrating tonight; Sue and Julie eagerly agree.,"Ann congratulates Sue and Julie on their success. They thank her, express relief, and agree to celebrate tonight.","Ann congratulates Sue and Julie on their success, and they all agree to celebrate tonight.",Ann congratulates Sue and Julie; Julie is glad it’s over; they all agree to celebrate tonight.,Ann congratulates Sue and Julie on their great performance. Julie is relieved it's over and finds it cute. They agree to celebrate tonight.,"Ann congratulated Sue and Julie for doing a great job and suggested a celebration, which they accepted.",0.8819018006324768,0.8962610363960266,0.9019696116447448,0.8999308943748474,0.00136,0,0.00136,0.0,0,0.0,0.0,0,0.0,0.00511,0,0.00511,"Ann congratulates Sue and Julie on their success, suggesting a celebratory evening which they both accept enthusiastically.
+","Ann congratulated Sue and Julie on their accomplishment.  They'll celebrate tonight.
+",0.7999645915764411,0.7925424192318226,0.7925337389156438,0.7999855858973741,0.8000958576427857,0.7988428516627637,0.7968695255342589,0.7151501972091602,0.917704463005066,0.9186100363731384,0.8932062387466431,0.9223007559776306,0.4847826086956522,0.43835978835978845,0.3449453551912568,0.2907274590163934,0.5237430167597765,0.670735144886684,0.35866477272727276,0.2486187845303867
+13728157,"Callan's Samsung S8 overheats, so he's going to the store to get it repaired.","Callan: Something's wrong with my Samsung S8.
+Wade: What, exactly?
+Callan: All I get is a black screen.
+Wade: Did you drop it or something?
+Callan: I think I know, this has happened before.
+Wade:  It did? What happened before?
+Callan: It overheats and then it takes a while for it to restart again..
+Wade: That sucks.. Be carefull with the battery, it can be dangerous.
+Callan: It sure can, but I'm going to the store and let them see it. It's still under warranty.
+Wade: Will you lose all your stuff?
+Callan: No, I always back up my files.",14,100,"Callan's Samsung S8 overheated, causing a black screen. Wade warns; warranty planned; backups safe.",Callan's Samsung S8 shows black screen from overheating. He'll take it to store under warranty; files are backed up.,"Callan's phone overheated, causing a black screen. He's taking it for a warranty repair.","Callan's S8 overheated, causing black screen; he’ll seek warranty service. Backups exist; Wade cautions.","Callan's Samsung S8 overheats, causing a black screen. He'll take it to the store under warranty and has file backups.",Callan's phone has a black screen from overheating. He is taking it for warranty repair.,0.91657555103302,0.9114667177200317,0.9222084879875184,0.9395918250083923,0.02141,0,0.02141,0.01318,0,0.01318,0.00955,0,0.00955,0.00451,0,0.00451,"Callan's Samsung S8 has a black screen issue due to overheating.  He'll take it to the store under warranty; his data is backed up.
+","Callan's Samsung S8 has a black screen; it overheats and restarts.  He'll take it to the store under warranty; his data is backed up.
+",0.6020660965613849,0.6740623445854024,0.7336187553107948,0.7947269519667085,0.7037793010094014,0.4718980785043126,0.7782852453314633,0.7549926906344258,0.9370883703231812,0.926722526550293,0.9319438934326172,0.9324584007263184,0.4000000000000001,0.6141821978926051,0.16304347826086954,0.2342796092796092,0.4546074619739445,0.3180272108843537,0.4931640625,0.4957460732984293
+13680286,Terence accused Daniel of taking his money. Terence finds the money later and apologizes to Daniel. Daniel is still upset.,"Terence: What the hell, Danny. You took my money, didn't you? :/
+Daniel: What, your money?? Why would I
+Terence: Don't play dumb
+Daniel: Are you calling me a liar, Terry??
+Terence: I'm not stupid, Danny
+Daniel: And I'm not a thief?? That's not cool, man :/
+Terence: ... Oh shit, I'm sorry, I've just found it. Forgot I'd placed it elsewhere last month
+Daniel: Good for you then
+Terence: Are you upset
+Daniel: What do you think?? Yeah, oh-fucking-course I am",20,82,Terence accuses Daniel of stealing money; Daniel denies and is offended; Terence later finds it and apologizes; Daniel remains upset.,"Terence accuses Daniel of stealing his money, but realizes he misplaced it and apologizes. Daniel is upset by the false accusation.","Terence accuses Daniel of stealing his money, only to find it himself. He apologizes, but Daniel is left angry and offended.","Terence accuses Daniel of stealing his money. He later finds it was misplaced, apologizes, but Daniel feels insulted and remains upset.","Terence accused Daniel of stealing his money. Daniel denied it and got offended. Terence realized he misplaced it, apologized, but Daniel remained upset.","Terence accused Daniel of stealing money, but then found it himself. Daniel is angry about the false accusation.",0.939275562763214,0.9405719041824341,0.937779426574707,0.9481836557388306,0.0,0,0.0,0.00551,0,0.00551,0.0,0,0.0,0.0,0,0.0,"Terence accuses Danny of theft, but discovers his misplaced money.  Danny is understandably upset by the false accusation.
+","Terence accused Daniel of stealing his money, but later apologized; he had misplaced it.  Daniel was understandably upset.
+",0.786391488597453,0.6842519675657012,0.7263835258015108,0.6960574078902095,0.4602566780828946,0.4983980433867551,0.5023973712765482,0.6489385745892149,0.9427179098129272,0.92759108543396,0.91912442445755,0.9315815567970276,0.4590732396854846,0.5372340425531915,0.3618710415200562,0.5531505531505533,0.3618710415200562,0.3503334783239089,0.3957262086251001,0.2192982456140351
+13821684,Edson is booking his ticket now.,"Joyce: Check this out!
+Joyce: <link>
+Michael: That's cheap!
+Edson: No way! I'm booking my ticket now!! ",6,17,Joyce shares cheap link; Edson books.,Joyce shares cheap link; Edson books ticket.,A cheap ticket deal excites friends.,Found a cheap deal; Edson's booking.,Joyce shares cheap ticket link; Michael agrees; Edson books now.,Edson booked the cheap ticket Joyce found.,0.864912748336792,0.8731288313865662,0.8857740759849548,0.8914400935173035,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,"Cheap flight; everyone's booking.
+","Cheap flight found; Edson booked immediately.
+",0.4191367016241289,0.6213302343753879,0.6028395917524444,0.7990805401851969,0.7935127223672659,0.44894153079396915,0.4239219660742969,0.6950445586696998,0.8697912693023682,0.9127944707870483,0.8806011080741882,0.8886328339576721,0.2777777777777778,0.48947368421052634,0.20833333333333331,0.2112676056338028,0.1428571428571428,0.28169014084507044,0.2112676056338028,0.1428571428571428
+13828119,Ethan will buy Damian a kebab. Damian had a bad day.,"Damian: are you downtown?
+Ethan: yes
+Ethan: why?
+Damian: can you buy me a kebab?
+Damian: i'm starving
+Ethan: why won't you cook something for both of us, huh?
+Damian: man, give me a break, i had a rough day
+Ethan: ok ok
+Ethan: but i really wish you weren't such a parasite
+Damian: i'll change, scout's honour",11,58,Damian asks Ethan downtown to buy him kebab; Ethan begrudgingly agrees.,"Damian begs downtown Ethan for kebab; Ethan agrees, calls him parasite, Damian vows change.",Ethan agrees to buy Damian a kebab but calls him a parasite.,"Damian begs for kebab; Ethan agrees, insults him; Damian promises change.","Damian, starving after a rough day, asks downtown Ethan to buy him a kebab. Ethan agrees reluctantly, calling him a parasite. Damian promises change.",Damian asks for a kebab; Ethan agrees but calls him a parasite.,0.8971178531646729,0.9027040004730225,0.8958479762077332,0.9017471671104431,0.0,0,0.0,0.01859,0,0.01859,0.0,0,0.0,0.0,0,0.0,"Damian, starving after a rough day, asks Ethan to buy him a kebab.  Ethan complies, but expresses frustration with Damian's dependence.
+","Damian, starving after a rough day, asks Ethan to buy him a kebab downtown.  Ethan complies, but expresses his frustration with Damian's dependence.
+",0.5915691657788169,0.5246282095446401,0.5188931766258615,0.5945757589095939,0.4000141474637008,0.4642831796577078,0.78798311552949,0.7893125161978554,0.9370113015174866,0.9070126414299011,0.901365041732788,0.9020299911499023,0.1851851851851852,0.5061224489795918,0.1893939393939394,0.1923076923076923,0.368916797488226,0.3254877014418999,0.34246575342465757,0.4413194444444445
+13862593,"Steve and Rob will talk about new Dream Theater album, after they finish listening.","Steve: Bought the new Dream Theater album 5 minutes ago. I hope it's good.
+Rob: I have it here on my desk, ready for the first listening.
+Steve: Ok, I'll tell you later what I think about it.
+Rob: Same here. See you later!",14,44,Steve and Rob got Dream Theater's album; plan first listens and share thoughts later.,Steve and Rob both got the new Dream Theater album and will share opinions later.,Steve and Rob both got the new Dream Theater album and will discuss it later.,Steve bought Dream Theater’s new album; Rob’s ready to listen. They’ll compare thoughts later.,Steve and Rob both have the new Dream Theater album. They'll listen and share opinions later.,Steve and Rob both have the new Dream Theater album and will discuss it later.,0.911312222480774,0.9076113700866699,0.928298830986023,0.9340124130249023,0.00457,0,0.00457,0.0,0,0.0,0.0,0,0.0,0.00739,0,0.00739,"Steve bought the new Dream Theater album; Rob already has it.  They'll share their opinions later.
+","Steve bought the new Dream Theater album and will share his opinion later; Rob already has it.
+",0.7995705280105474,0.7988206943196221,0.7988239786472177,0.7925399997264404,0.6044536759282744,0.6207113566141688,0.7964113629806493,0.7995914788085312,0.9404088854789734,0.940089225769043,0.9136916399002076,0.9108194708824158,0.5178125,0.5450489276479236,0.3805389221556886,0.3627022467602178,0.5178125,0.5178125,0.5082822085889571,0.4674796747967479
+13829640,Steve is calling Sue at her request.,"Sue: Call me when you get this.
+Sue: it's important
+Steve: OK, I'm calling",7,14,Sue requests urgent call; Steve calls back.,Sue urgently asks Steve to call; he complies.,Sue urgently asked Steve to call back.,Sue requests an urgent call; Steve calls.,Sue urgently asks Steve to call her. Steve confirms he's calling now.,Steve is calling Sue about something important.,0.8778732419013977,0.8808754682540894,0.875968873500824,0.8734745979309082,0.0,0,0.0,0.01406,0,0.01406,0.0,0,0.0,0.00415,0,0.00415,"Sue urgently requests a callback from Steve.
+","Sue needs Steve to call back urgently.
+",0.7669152427241394,0.6647627227632673,0.788279160022525,0.8009541315807093,0.7508825609411434,0.5145014148200309,0.6383997893592183,0.5419027362479476,0.8820438385009766,0.9041507244110107,0.8840561509132385,0.8839964866638184,0.2439024390243902,0.28735632183908044,0.30864197530864196,0.3086419753086419,0.25,0.605,0.25,0.25
+13864400,Mark lied to Anne about his age. Mark is 40.,"Anne: You were right, he was lying to me :/
+Irene: Oh no, what happened?
+Jane: who? that Mark guy?
+Anne: yeah, he told me he's 30, today I saw his passport - he's 40
+Irene: You sure it's so important?
+Anne: he lied to me Irene",10,47,"Anne learns Mark's 40, not 30; Irene questions its importance.","Anne discovers Mark lied about his age: 40, not 30.",Anne discovered Mark lied about his age; he's 40.,Anne finds Mark lied about age; Irene doubts it's important.,"Anne discovered Mark lied about his age: he claimed 30 but his passport shows 40. Irene questions its importance, but Anne is upset.","Anne discovered Mark lied about his age; he's 40, not 30.",0.887029230594635,0.9103354215621948,0.930764377117157,0.9167906045913696,0.00773,0,0.00773,0.0,0,0.0,0.0,0,0.0,0.00883,0,0.00883,"Mark lied about his age (40, not 30); Anne is upset.
+","Mark lied about his age; he's 40, not 30.
+",0.6022917516146442,0.6638576039788018,0.6857945756011745,0.7904163636361705,0.5605671505679032,0.7208985942142715,0.731713324359018,0.40130667733487424,0.9474321007728576,0.9425093531608582,0.9290416836738586,0.9383723139762878,0.521694214876033,0.3703703703703704,0.24793388429752067,0.1639344262295082,0.5852864583333333,0.5132113821138211,0.4730983302411874,0.5550577459179611
+13829372,"Phil received a card from Deana. Constantine was happy. Phil has sunglasses, that Deana found in the back above the radio. Deana and Phil don't know who they belong too. Phil will keep the sunglasses.","Phil: Good evening Deana! Many thanks for this nice card from you. Constantine was very happy!
+Phil: Are these sunglasses also from you?
+Deana: I thought they belonged your Cathreen!
+Phil: Nope. She says they aren't hers.
+Deana: Mine either. Look, maybe you feel like keeping them?
+Deana: I seem to have so many sunglasses...
+Deana: 8‑D
+Phil: Where did you find them, possible that they belong to Adrian?
+Deana: In this empty place above the radio. In the very back.
+Deana: If Adrian wants it, no pro!
+Deana: :)
+Phil: :))
+Deana: Exactly!
+Phil: Ok, they don't belong to any of us, and nobody else drove your car. But we can look after these sunglasses.
+Deana: Glad to hear it!",35,121,"Phil thanks Deana for a card that pleased Constantine. They discuss sunglasses found above the radio: not Cathreen’s or Deana’s, possibly Adrian’s. Since no one claims them, Phil and Deana agree to hold them in case.","Phil thanks Deana for a card that delighted Constantine. They discuss mysterious sunglasses found in Deana's car above the radio, which belong to none of them—including Cathreen or Adrian. Phil agrees to keep and look after them.","Phil and Deana discuss a pair of sunglasses found in Deana's car. After confirming they don't belong to them or their friends, Cathreen and Adrian, Phil agrees to look after the unclaimed sunglasses for the time being.","Phil thanks Deana for a card that made Constantine happy. They discuss sunglasses found above the car radio. Not Cathreen’s, Phil’s, Deana’s, or Adrian’s. They’ll hold onto them in case someone claims them.","Phil thanks Deana for the card that made Constantine happy. They discuss mysterious sunglasses found in Deana's car, which don't belong to Deana, Phil, or Cathreen—possibly Adrian's—and decide to keep them.","Deana found a pair of sunglasses in her car. After checking with Phil, Cathreen, and Adrian, they realize the sunglasses don't belong to any of them. Since the owner is a mystery, Phil agrees to look after them.",0.890163779258728,0.8910858631134033,0.8974781632423401,0.8923541307449341,0.00755,0,0.00755,0.00793,0,0.00793,0.00755,0,0.00755,0.00347,0,0.00347,"Phil received a card and sunglasses from Deana.  Neither Phil nor Deana own the sunglasses,  found in Deana's car.  They decide to keep them since they don't belong to anyone they know.
+","Phil received a card and sunglasses, unsure of their origin.  Deana, possessing many sunglasses herself, found them in her car.  They agree the sunglasses belong to no one present and Phil will keep them.
+",0.6715380975031786,0.7759551773252876,0.7634175615043394,0.7459825364105378,0.6068820750479162,0.5522812083305089,0.408456420223027,0.624911149149995,0.883864164352417,0.8750762343406677,0.9114891290664672,0.9021247029304504,0.3551013380558835,0.31786913483342055,0.36071409642598457,0.2918509680673573,0.2896743671906356,0.25760466210212724,0.3964114832535885,0.4690576923076923
+13729695,Marika is coming today.,"Marika: Are you coming today?
+Lara: Yes!
+Marika: Great!",4,9,Lara is coming today.,Lara confirms coming today.,Lara is coming today.,Lara will come today.,'Marika asks Lara if she is coming today. Lara confirms that she is. Marika expresses her happiness.',Lara will be coming.,0.948933243751526,0.9217349886894226,0.9113852381706238,0.8757140636444092,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.00639,0,0.00639,"Lara will attend today.
+","Lara is coming today.
+",0.801240396965961,0.8006349690505598,0.7977215399734032,0.8040071969956488,0.7954129463370115,0.5713390236000327,0.7978511136373576,0.7872127806336371,0.948933243751526,0.8941174745559692,0.9004250168800354,0.9489332437515259,0.5888888888888889,0.5636363636363636,0.5888888888888889,0.7937500000000002,0.7937500000000002,0.20000000000000004,0.7937500000000002,0.375
+13730711,Alex prefers the Flash to Barman and Superman thanks to his speed.,"Pedro: batman or superman??
+Alex: honestly..  neither
+Pedro: WHAT??
+Alex: i honestly like the flash
+Pedro: whats so good about the flash :P
+Alex: duuude, he can do almost anything
+Pedro: not anything
+Alex: yea im sure batman can run as fast -_-
+Pedro: superhuman speed? thats your pitch?
+Alex: that speed opens up the whole multiverse for him.. you seriously dont get how powerful he can be
+Pedro: yeah i get your point",12,74,"Pedro asks Batman or Superman; Alex prefers Flash, citing speed; Pedro concedes.",Pedro asks Batman or Superman; Alex prefers Flash for speed and multiverse powers. Pedro agrees.,Alex convinces Pedro that The Flash's superhuman speed makes him extremely powerful.,"Pedro asks Batman or Superman; Alex prefers Flash, citing multiverse-opening speed. Pedro concedes.",Pedro asks Batman or Superman. Alex prefers The Flash for his super speed and multiverse powers. Pedro agrees.,Alex thinks The Flash is more powerful than Batman or Superman because of his speed.,0.8884588479995728,0.8852757215499878,0.8894438743591309,0.896447479724884,0.0,0,0.0,0.01226,0,0.01226,0.0,0,0.0,0.0,0,0.0,"Alex prefers the Flash over Batman and Superman, citing his immense speed and multiverse access.
+","Alex prefers The Flash over Batman and Superman because of his speed, which allows him access to the multiverse.
+",0.5327540254340137,0.6478847796368197,0.4040545988326604,0.40153682699080473,0.7511982700330131,0.4798883381289253,0.7198934990394685,0.7579776315613829,0.8917950987815857,0.9291113615036011,0.933337390422821,0.937157928943634,0.3552532123960695,0.5555555555555557,0.3182006633499171,0.3205931495405179,0.283969465648855,0.47721344176768454,0.6003623188405797,0.5721393034825869
+13730310,Linda wants to buy flowers for her mother and asks Michael which flowers does she like. Michael suggests Linda to buy freesias.,"Linda: Hi Dad, I want to buy flowers for mum! But I don't remember which one she likes :(
+Michael: Well, she likes all the flowers I believe
+Linda: That doesn't help! I'm on a flower market right now!
+Michael: Send me some pics then
+Linda: <file_photo> 
+Michael: Tulips are nice, roses too
+Linda:  What about carnations?
+Michael: No, carnations are boring :D
+Linda: Thanks Dad, srsly…
+Michael:  What about freesias? She likes them a lot, are there any there?
+Linda: <file_photo> 
+Michael: Take those!",22,85,"Linda asks Dad which flowers Mom likes. Sends photos; suggests tulips and roses, rejects carnations, recommends freesias and says to buy them.","Linda asks her dad for help choosing flowers for mum at the market. After photos, he suggests tulips and roses, rejects carnations, and recommends freesias.","Linda consults her dad about which flowers to buy for her mom. After reviewing photos from the market, he advises her to get freesias.","Linda asks her dad which flowers mom likes while shopping. He suggests tulips and roses, rejects carnations, then recommends freesias from photos.","Linda wants to buy flowers for her mom but forgets her favorites. At the market, she sends photos to her dad, who rejects carnations and recommends freesias.",Linda is at a flower market and asks her dad for help buying flowers for her mom. Her dad tells her to get freesias.,0.8952261209487915,0.904308021068573,0.9052719473838806,0.9105542302131653,0.0,0,0.0,0.00551,0,0.00551,0.0,0,0.0,0.00472,0,0.00472,"Linda seeks her father's advice on buying flowers for her mother.  After seeing photos, he suggests tulips, roses, and finally, freesias, which her mother particularly enjoys.
+","Linda needs to buy flowers for her mother but doesn't know her preferences.  Her father suggests tulips, roses, and freesias, ultimately recommending freesias.
+",0.6798407220611455,0.7828322517688873,0.7989557247334516,0.782891599246321,0.6084018663366071,0.5016416412865556,0.6604939708371325,0.6612607657473408,0.9239426851272584,0.9232054948806763,0.908186137676239,0.9084761738777161,0.2583333333333333,0.36688786143784585,0.2837920907041869,0.3896604938271605,0.3509373571101966,0.3744681891535038,0.3915035401915869,0.2951388888888889
+13829937,Nathan and Aaron are discussing a video which Nathan sent. ,"Nathan: <file_video>
+Aaron: OMG!!! 
+Aaron: 😂😂😂😂
+Aaron: looool
+Aaron: do you know her mate? 🤣🤣
+Aaron: my cat's face looks like that when he's taking a dump..🤣🤣🤣
+Aaron: <file_gif>
+Aaron: the angels must be weeping 🤭🤭🤭 
+Aaron: <file_gif>
+Aaron: <file_gif>
+Nathan: Hahahaha
+Nathan: She's having a spiritual moment 😉
+Nathan: No clue mate, Dan sent it over
+Nathan: A tragedy to say the least 😂😂
+Aaron: <file_gif>
+Aaron: looking for Jesus
+Nathan: 😂😂😂
+Aaron: hilarious..hahahaha",10,75,"Friends share a video, joke about woman's expression, religious jokes.","Friends laugh hysterically at shared video of woman's ""spiritual"" moment.",Nathan and Aaron found a video of a woman hilarious.,"Aaron and Nathan laugh at Dan's clip, mocking an unknown woman's expressions.","Nathan shares a funny video of a woman. Aaron laughs hysterically, compares her face to his cat pooping, and they joke about her spiritual moment.",Nathan sent Aaron a hilarious video of a woman's funny face.,0.8772087693214417,0.9014766812324524,0.8607651591300964,0.8787492513656616,0.0373,0,0.0373,0.02821,0,0.02821,0.01147,0,0.01147,0.01621,0,0.01621,"Aaron and Nathan find a funny video; Aaron compares it to his cat; they both laugh a lot.
+","Nathan and Aaron found a funny video of a woman and shared many GIFs and reactions.
+",0.4018952708898378,0.4267380049096629,0.4027828514167052,0.5330786774736382,0.3959336367066276,0.3997013845780525,0.4074727804892308,0.4016888329648133,0.9178023338317872,0.8980687856674194,0.9055039286613464,0.9107082486152649,0.0884955752212389,0.23437499999999997,0.1739130434782609,0.2261553588987217,0.3876262626262626,0.38070436507936506,0.25862068965517243,0.25
+13864469,"Mia, Jennifer, Karine and Peter do not like Trump.","Mia: God, he keeps talking about the stupid wall
+Jennifer: I think he's just senile
+Karine: unfortunately it's much more
+Karine: this populist strategy to scare people with a minority
+Karine: and then present himself as the only savior
+Peter: Karine is right, I think he's not as senile and stupid as we would like to believe
+Mia: so it's even worse - he's pure evil
+Peter: possibly yes
+Karine: I really think so, because it's not only about politics anymore
+Karine: he is destroying the Earth
+Karine: trying to shake the world's order
+Jennifer: but he's also quite stupid
+Jennifer: and the dangerous thing is his self confidence
+Jennifer: he's persistence 
+Jennifer: and ignorance
+Karine: but we have a chance to change it
+Karine: maybe Trump will be over soon?
+Mia: we will see
+Mia: but we should do anything to win the next elections
+Karine: everything!",9,148,Group decries Trump’s populism; vow to win next election.,Group criticizes Trump as evil populist; urges winning elections.,"He is senile for talking about the wall.
+It's a populist strategy; he is pure evil.
+He is destroying the Earth and the world's order.
+His dangerous traits are ignorance and self-confidence.
+They must do everything to win the next election.",Group calls Trump dangerous populist; pledges to win elections.,"The group criticizes Trump as senile yet strategically evil, using populist tactics to scare people with minorities and portray himself as savior. They see him destroying the Earth and world order through ignorance and persistence, and vow to win the next elections to end his influence.","A group of friends discuss a politician. They believe he is not senile, but evil. His populist strategy is a way to scare people. They think he is destroying the world with his ignorance. They must do everything to win the next elections.",0.8578779101371765,0.8577501773834229,0.8601500391960144,0.8395135998725891,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,"They fear the politician's harmful, populist strategy and self-assured ignorance.
+","He's using fear-mongering tactics, not just senility.  His actions endanger the planet.  The next election is crucial.
+",0.3998294593893836,0.400698096125012,0.5094295867850123,0.7501483570486704,0.5201546941935683,0.7046578994721329,0.4961748958742377,0.5963110621431136,0.8362754583358765,0.8396942615509033,0.8530051708221436,0.8401917219161987,0.0840336134453781,0.15822784810126586,0.08403361344537816,0.0826446280991735,0.0955414012738853,0.12738853503184713,0.11538461538461539,0.1239669421487603
+13819831,"Barbara, Sean and Zac are meeting at Barbara's place tonight. Sean will bring the dog. Sean and Zac will stay overnight.","Barbara: I'm home already, you can come over
+Sean: May I bring the dog?
+Zac: I'm on my way
+Barbara: sure you can, Sean
+Barbara: do you want to stay overnight?
+Sean: great!
+Sean: I thought about it
+Barbara: nice!",21,40,Barbara is home and invites them over. Sean asks to bring his dog; she agrees and offers overnight stay. Zac's coming.,"Barbara invites Sean and Zac over. Sean asks to bring his dog and stay overnight, which Barbara approves. Zac says he's on his way.",Barbara invited Sean and Zac over. Sean received permission to bring his dog and accepted an offer to stay the night.,"Barbara is home and invites friends over. Zac is coming. Sean can bring his dog, and Barbara offers him an overnight.",Barbara is home and invites Sean and Zac over. Sean can bring his dog and is considering staying overnight. Zac is on his way.,Barbara invited Sean and Zac over. Sean is bringing his dog and Barbara has also invited him to spend the night there.,0.8965455889701843,0.9042184352874756,0.921350359916687,0.9221897125244141,0.00365,0,0.00365,0.01301,0,0.01301,0.00324,0,0.00324,0.00891,0,0.00891,"Barbara invited Sean and Zac over; Sean asked if he could bring his dog, which Barbara allowed.  Sean will stay overnight.
+","Barbara invited Sean and Zac to her house. Sean asked if he could bring his dog, which Barbara allowed. Sean will also stay overnight.
+",0.7994488631738798,0.7243330832571655,0.7994245595342282,0.7993029638007145,0.7847875261410368,0.7847958393203756,0.7029319708695063,0.7997188692950914,0.920136570930481,0.9283729791641235,0.922428011894226,0.9284749627113342,0.4243688081360928,0.3876543209876543,0.37034118666771715,0.2692307692307692,0.2871000864677908,0.28598729543496987,0.5114652910305345,0.4933504933504932
+13813575,Fiona wants to prepare dinner for Chris. She is thinking of Tina's tart. She will help her make it.,"Fiona: Are you free?
+Tina: Yes, what's up?
+Fiona: I'm trying to prepare a nice dinner for Chris and I thought that maybe I could prepare this tart of yours :)
+Tina: I'm flattered!
+Fiona: Well, it IS delicious :) Could help me do it?
+Tina: Sure! It's not difficult. Do you have anything ready?
+Fiona: I must admit I bought the crust...
+Tina: Oh, ok :P Pity, but well, it's too late now.
+Fiona: I tried making the filling once, but I finished with lemony scrambled eggs...
+Tina: It happens, don't worry. The thing is that once you start adding eggs you can't stop mixing it, otherwise you'll end up with scrambled eggs.",19,114,"Fiona asks Tina for help making tart for Chris; Tina agrees, advising mixing after eggs continuously to prevent scrambling.",Fiona asks Tina for help making her tart for Chris's dinner. Fiona bought the crust and once botched the filling. Tina advises constant mixing with eggs.,"Fiona asks Tina for help making her tart recipe, having previously failed by making lemony scrambled eggs instead.",Fiona asks Tina to help make a tart for Chris; bought crust. Tina advises mixing nonstop after adding eggs.,Fiona asks Tina for help making her tart for dinner with Chris. She bought the crust and once botched the filling into scrambled eggs. Tina advises constant mixing after adding eggs.,Fiona wants to prepare Tina's tart. Tina is helping her and explaining how to avoid making scrambled eggs with the filling.,0.8882067203521729,0.8911069631576538,0.8997728228569031,0.8934216499328613,0.0,0,0.0,0.0,0,0.0,0.00435,0,0.00435,0.0074,0,0.0074,"Fiona asks Tina for help making a tart for Chris.  Tina agrees, learning Fiona bought a pre-made crust and previously failed at the filling.  Tina explains the crucial mixing technique.
+","Fiona wants to make Tina's tart for Chris's dinner and asks for Tina's help.  Fiona already bought the crust but previously failed at making the filling. Tina agrees to help.
+",0.5748997433221297,0.6309620903315407,0.5378829179912471,0.46117902197496086,0.6092489791775554,0.7591484487121063,0.789304248877029,0.7918457725511939,0.8887283205986023,0.9122098684310913,0.88660728931427,0.9080026149749756,0.3328090280378498,0.32728522674261573,0.27751091703056774,0.2550002695563104,0.1762114537444934,0.4694023924793156,0.2880658436213992,0.3087136929460581
+13731428,"Joan and John are going to watch ""A Star is Born"" on Thursday around 8 p.m.","John: wanna go see ""A Star is Born"" on Wed?
+Joan: sorry can't
+Joan: super busy 
+Joan: don't have time for anything :( 
+John: that's a shame
+Joan: I'm free on Thursday
+John: I could do Thursday
+Joan: ok! so around 8pm?
+John: sure sounds great
+John: I'll see where it's palying and send you the details
+Joan: ok great!",16,60,John invites Joan Wednesday; she's busy. They reschedule for Thursday 8pm; John will confirm theater details.,"John invites Joan to see ""A Star is Born"" on Wednesday, but she's busy. They reschedule to Thursday at 8pm; he'll send details.","John invites Joan to see the movie ""A Star is Born"" on Wednesday, but Joan is too busy to go. She expresses her disappointment and suggests an alternative day, Thursday, which works for John. They agree to meet around 8 pm. To finalize the arrangement, John takes on the responsibility of finding a theater where the movie is playing and promises to send the specific details to Joan. They successfully reschedule their movie outing for Thursday evening.",John invites Joan to A Star Is Born; Wednesday fails. They schedule Thursday 8pm; John confirms.,"John invites Joan to see ""A Star is Born"" on Wednesday, but she's busy. They reschedule for Thursday at 8pm, and John will send details.","Joan was busy on Wednesday, so she and John will see 'A Star is Born' on Thursday at 8 pm.",0.8580570816993713,0.9006557464599609,0.9099045991897584,0.9138328433036804,0.0045,0,0.0045,0.01274,0,0.01274,0.0114,0,0.0114,0.00545,0,0.00545,"John invited Joan to ""A Star is Born"" on Wednesday, but she was busy.  They agreed to see it Thursday at 8 pm.
+","Joan is busy on Wednesday but free Thursday evening to see ""A Star is Born"" with John.  John will send details.
+",0.6154612435768272,0.7880655418111955,0.7104544546193001,0.6684170892270489,0.7791779256101393,0.7305782421863,0.4138274395515357,0.7972443314528406,0.8823697566986084,0.9441403150558472,0.9211560487747192,0.9080603718757629,0.6119280567109967,0.6739469186689455,0.4337696335078534,0.1041666666666666,0.430922766562905,0.5543091168091168,0.6306605482429659,0.6595477386934674
+13730333,Jones and Angelina will meet in town in the afternoon.,"Jones: Hey.
+Angelina: Hey.
+Angelina: Long time. How are you doing?
+Jones: I'm fine
+Jones: You?
+Angelina: I'm cool too.
+Jones: You think we can meet today later in the afternoon in town?
+Angelina: Definitely.
+Jones: Okay. I will call you to confirm where we will meet.
+Angelina: Cool",10,49,"Jones and Angelina reconnect, planning an afternoon meeting in town.","Jones and Angelina greet each other, exchange well-being, and plan an afternoon town meeting with confirmation call.",Jones and Angelina made plans to meet later in town.,"Jones and Angelina reconnect, plan afternoon meetup; Jones will confirm.",Jones and Angelina greet each other after a long time. Both are fine and agree to meet in town this afternoon. Jones will call to confirm the location.,Jones and Angelina arranged to meet in town this afternoon.,0.95290869474411,0.9133092164993286,0.9176574945449828,0.9269805550575256,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.00403,0,0.00403,"Jones and Angelina plan an afternoon meeting in town.
+","Jones and Angelina plan to meet later today in town.
+",0.7809556480805039,0.7942100661840166,0.7905423391394921,0.7995457367786836,0.6079077245768733,0.7937995385906788,0.7302968200881672,0.798826382845227,0.9459770917892456,0.9677424430847168,0.9631807208061218,0.9635928869247437,0.2941176470588235,0.3846153846153846,0.38070436507936506,0.5686936936936937,0.520408163265306,0.6384943181818182,0.520408163265306,0.5791284403669725
+13731506,Christie and Katie are tired after the party. They both had fun.,"Christie: how are you after the party?
+Katie: really tired... and you?
+Christie: same
+Christie: the party was great!
+Katie: Yeah, we had fun! :)",12,25,Christie and Katie are tired after party but agree it was fun.,"After the party, Christie and Katie feel tired but agree it was great fun.",Christie and Katie are tired after the party but agree it was fun.,"After the party, both are tired but agree it was great fun.",Christie and Katie are tired after the party but agree it was great and fun.,"Christie and Katie are tired after the party, but they had a great time.",0.961524248123169,0.9255905747413635,0.9318023920059204,0.9563297033309937,0.0,0,0.0,0.0,0,0.0,0.0,0,0.0,0.00539,0,0.00539,"Christie and Katie are tired but agree the party was great.
+","Both Christie and Katie are tired but enjoyed the party.
+",0.7734015967150294,0.7997810222128487,0.7998038071905593,0.7941385409568887,0.793383584370225,0.7995575120727513,0.7933859682327571,0.7122328438977112,0.9619593024253844,0.9726521372795105,0.9505876898765564,0.9449077844619751,0.6059815684228832,0.6816901408450705,0.5357142857142857,0.6354916067146283,0.7114285714285714,0.7560237457804679,0.6280976840587548,0.5644248188405797
+13716495,"Freddie, Kelly, Jim, Greg, Bob, Mike, Mary, Alan and Nancy are watching different shows on Netflix.","Freddie: What are you watching on Netflix? I've just finished Mad Men.
+Kelly: I've just finished The Crown. 
+Freddie: There should be new episodes coming soon.
+Kelly: OMG! i can't wait! :)
+Freddie: Try Outlander or The Tudors in the meantime.
+Jim: i'm watching I, Zombie.
+Bob: try Grimm or Sabrina. They're both great!
+Kelly: they are all horrible and disgusting! 
+Bob: i think they are funny. They're just TV shows don't take them too seriously. x 
+Greg: I'm watching House of Cards though must admit the new series is boring.
+Mike: i agree. not the same without Kevin Spacey! You should try The West Wing if you enjoy political dramas.
+Greg: Netflix original Bodyguard is supposed to be good from what I've heard.
+Mary: I'm a bit ashamed to confess i enjoy stuff like Pretty Little Liars or Gossip Girl ;)
+Nancy: don't be ashamed i enjoy them too! and my favourite one is Desperate Housewives!!!
+Mary: I know! I watched it twice!
+Alan: I'm catching up with Friends.
+Nancy: OMG! i used to love Friends!",16,177,Group discusses Netflix: finished Crown/Mad Men; recommends Outlander. Mixed reactions. House of Cards disappoints; guilty pleasures.,"Group chats about Netflix shows: finished Mad Men, The Crown; recommendations like Outlander, House of Cards; mixed opinions on horror and dramas.",A group of friends discusses what TV shows they are watching and gives various recommendations.,"Group discusses Netflix: finished The Crown and Mad Men, share recommendations, debate tastes, confess guilty pleasures.","Group discusses Netflix shows: Kelly finished The Crown; others watch iZombie, House of Cards, Friends; recommendations include Outlander, Grimm, West Wing.",A group of people are discussing which TV shows they are watching and giving each other recommendations.,0.8150827884674072,0.8282690644264221,0.8240996599197388,0.8310160636901855,0.0,0,0.0,0.00228,0,0.00228,0.0,0,0.0,0.00136,0,0.00136,"A group of friends discuss their Netflix viewing habits, recommending shows like ""Outlander,"" ""The West Wing,"" and ""Desperate Housewives,"" while debating the merits of various dramas and comedies.  Differing opinions on show quality are expressed.
+","Several friends discuss their Netflix viewing habits.  Recommendations are exchanged, ranging from dramas like *The Crown* and *House of Cards* to supernatural shows like *I, Zombie* and lighter fare such as *Friends* and *Gossip Girl*.  Disagreements on taste are expressed.
+",0.620785011505417,0.793433165647002,0.6937275700787823,0.7121211781595631,0.7461455042482432,0.6437921985770034,0.7554358166267353,0.7808820742603201,0.847189724445343,0.844951868057251,0.8342151045799255,0.8074172139167786,0.1434426229508197,0.18367346938775514,0.12658227848101264,0.042016806722689,0.1603448275862069,0.15897435897435902,0.1660516605166052,0.2281368821292775
